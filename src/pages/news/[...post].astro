@@ -4,7 +4,6 @@ import { Image } from "astro:assets";
 import BaseLayout from "src/layouts/BaseLayout.astro";
 import { formatDate } from "@libs/utils.js";
 import Landing from "@components/Landing.astro";
-import FeaturedPost from "@components/FeaturedPost3.astro";
 import "@styles/blog.less";
 
 export async function getStaticPaths() {
@@ -76,9 +75,6 @@ const { Content } = await post.render();
           <Content />
         </section>
       </article>
-    </div>
-    <div class="p-4">
-    <FeaturedPost />
     </div>
   </div>
 </BaseLayout>
