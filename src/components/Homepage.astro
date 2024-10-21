@@ -1,0 +1,284 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+
+import { formatDate } from "@libs/utils.js";
+import Button from "./ui/button.astro";
+
+const news = await getCollection("news");
+news.sort(
+  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
+);
+
+---
+
+<!-- ============================================ -->
+<!--                    Blog                      -->
+<!-- ============================================ -->
+<section id="blog-1289">
+    <div class="max-w-screen-xl mx-auto">
+    <h2 class="text-left text-4xl mb-4">
+   News    
+    </h2>   
+    <div class="cs-container">  
+        <ul class="cs-card-group">
+            {news.length === 0 && <h1>No Recent Posts</h1>}
+            {
+              news.length >= 1 && news.map((post, index) => (
+                <li key={index} class={`cs-item ${index === 0 ? 'cs-link' : ''}`}>
+                  <a href={`/news/${post.slug}`} class="cs-link">
+                    <picture class="cs-picture">
+                      {/* Mobile Image */}
+                      <source media="(max-width: 600px)" srcSet={post.data.image} />
+                      {/* Tablet and above Image */}
+                      <source media="(min-width: 601px)" srcSet={post.data.image} />
+                      <img
+                        loading="lazy"
+                        decoding="async"
+                        src={post.data.image}
+                        alt={post.data.imageAlt}
+                        width="270"
+                        height="200"
+                        class="rounded"
+                      />
+                    </picture>
+                    <div class="cs-flex">
+                      <span class="cs-date">{formatDate(post.data.date)}</span>
+                      <h3 class="cs-h3">{post.data.title}</h3>
+                    </div>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+          </div>
+    </div>
+</section>                                
+
+<style>
+
+
+                                
+
+/* Mobile - 360px */
+@media only screen and (min-width: 0rem) {
+    #blog-1289 {
+        padding: var(--sectionPadding);
+
+        .cs-container {
+            width: 100%;
+            /* changes to 1280px at tablet */
+            max-width: (550/16rem);
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            /* 48px - 64px */
+            gap: clamp(3rem, 6vw, 4rem);
+        }
+
+        .cs-content {
+            /* set text align to left if content needs to be left aligned */
+            text-align: left;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            /* centers content horizontally, set to flex-start to left align */
+            align-items: center;
+            margin: 0 auto;
+        }
+
+        .cs-flex-group {
+            /* prevents flexbox from squishing it */
+            flex: none;
+        }
+
+        .cs-link{
+                min-width: 300px;
+            }   
+        .cs-color {
+            color: var(--primary);
+        }
+        .cs-card-group {
+            padding: 0;
+            margin: 0;
+            display: grid;
+            grid-template-columns: repeat(12, 1fr);
+            /* 16px - 20px */
+            gap: clamp(1rem, 2vw, 1.25rem);
+        }
+
+        .cs-item {
+            list-style: none;
+            grid-column: span 12;
+
+            &:hover {
+                .cs-picture {
+                    &:before {
+                        opacity: 0.7;
+                    }
+
+                    img {
+                        transform: scale(1.2);
+                        filter: grayscale(1);
+                    }
+                }
+
+                .cs-h3 {
+                    text-decoration: underline;
+                }
+            }
+        }
+
+        .cs-highlight {
+            .cs-flex {
+                display: flex;
+                flex-direction: column;
+                align-items: flex-start;
+                gap: (16/16rem);
+            }
+        }
+
+        .cs-link {
+            text-decoration: none;
+            display: flex;
+            flex-direction: column;
+            align-items: stretch;
+            gap: (16/16rem);
+        }
+
+        .cs-picture {
+            width: 100%;
+            /* 200px - 270px */
+            height: clamp(12.5rem, 25vw, 16.875rem);
+            border-radius: (16/16rem);
+            /* clips the corners of the img tag */
+            overflow: hidden;
+            display: block;
+            position: relative;
+            z-index: 1;
+
+            &:before {
+                content: "";
+                width: 100%;
+                height: 100%;
+                background: #000;
+                opacity: 0;
+                position: absolute;
+                display: block;
+                top: 0;
+                left: 0;
+                z-index: 2;
+                transition: opacity 0.3s;
+            }
+
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: cover;
+                position: absolute;
+                top: 0;
+                left: 0;
+                transition:
+                    transform 0.65s,
+                    filter 0.4s;
+            }
+        }
+
+        .cs-date {
+            font-size: (16/16rem);
+            line-height: 1.5em;
+            text-align: left;
+            font-weight: 700;
+            margin: 0;
+            color: var(--bodyTextColor);
+            display: block;
+        }
+
+        .cs-h3 {
+            /* 20px -25px */
+            font-size: clamp(1.25rem, 2.2vw, 1.5625rem);
+            line-height: 1.2em;
+            font-weight: 700;
+            margin: 0;
+            color: var(--headerColor);
+        }
+
+        .cs-item-text {
+            /* 14px - 16px */
+            font-size: clamp(0.875rem, 1.5vw, 1rem);
+            line-height: 1.5em;
+            text-align: inherit;
+            margin: 0;
+            color: var(--bodyTextColor);
+            display: block;
+        }
+    }
+}
+
+/* Tablet - 768px */
+@media only screen and (min-width: 48rem) {
+    #blog-1289 {
+        .cs-container {
+            /* max-width: (1280/16rem); */
+            max-width: 1280px;
+            margin: 0 auto;
+        }
+
+        .cs-content {
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            gap: (48/16rem);
+        }
+
+        .cs-title {
+            margin: 0;
+        }
+
+        .cs-flex-group {
+            width: 50%;
+        }
+
+        .cs-item {
+            grid-column: span 4;
+        }
+        .cs-link{
+                min-width: 285px;
+            }   
+            
+
+        .cs-highlight {
+            grid-column: span 12;
+            .cs-link {
+                flex-direction: row;
+                align-items: stretch;
+            }
+
+            .cs-flex {
+                align-self: center;
+            }
+
+            .cs-picture {
+                /* 300px - 400px */
+                min-height: clamp(18.75rem, 35vw, 25rem);
+                height: auto;
+                width: 50%;
+                /* prevents flexbox from squishing it */
+                flex: none;
+            }
+
+            .cs-h3 {
+                /* 25px - 39px */
+                font-size: clamp(1.5625rem, 3vw, 2.4375rem);
+            }
+        }
+    }
+}
+
+@media only screen and (min-width: 80rem) {
+    .cs-link{
+                min-width: 420px !important;
+            }   
+    }                       
+</style>                                

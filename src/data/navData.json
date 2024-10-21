@@ -1,0 +1,54 @@
+[
+  {
+    "key": "Home",
+    "url": "/",
+    "children": []
+  },
+  {
+    "key": "Genres",
+    "url": "/genres/",
+    "children": [
+      {
+        "key": "Death Metal",
+        "url": "/genres/death-metal/"
+      },
+      {
+        "key": "Black Metal",
+        "url": "/genres/black-metal/"
+      },
+      {
+        "key": "Power Metal",
+        "url": "/genres/power-metal/"
+      },
+      {
+        "key": "Groove Metal",
+        "url": "/genres/groove-metal/"
+      },
+      {
+        "key": "Metalcore",
+        "url": "/genres/metalcore/"
+      },
+      {
+        "key": "Deathcore",
+        "url": "/genres/deathcore/"
+      },
+      {
+        "key": "Progressive Metal",
+        "url": "/genres/progressive-metal/"
+      }
+
+    ]     
+  },
+  {
+    "key": "Samplers",
+    "url": "/samplers/",
+    "children": []
+  },
+  {
+    "key": "Contact Us",
+    "url": "/contact/",
+    "children": []
+  }
+
+
+]
