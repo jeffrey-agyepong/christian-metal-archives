@@ -9,7 +9,7 @@ currentLabel: Independent
 image: https://ik.imagekit.io/boxhuwbys/afterimage.webp
 imageAlt: "Afterimage "
 tags:
-  - death-metal
+  - deathMetal
 bandMembers: |-
   Eric Huber - Bass
 
