@@ -81,24 +81,14 @@ const { Content } = await post.render();
           <p class="text-center font-medium text-xl">
             {currentLabel}
           </p>
-          <section id="band-members">
-            <h2 class="text-center font-bold text-2xl">Band Members</h2>
-            <ul>
-              {bandMembers.map((member) => (
-                <li class="text-center font-medium text-xl">{member}</li>
-              ))}
-            </ul>
-          </section>
-          
-          <section id="discography">
-            <h2 class="text-center font-bold text-2xl">Discography</h2>
-            <ul>
-              {discography.map((album) => (
-                <li class="text-center font-medium text-xl">{album}</li>
-              ))}
-            </ul>
-          </section>
-          
+          <p class="text-center font-medium text-xl">
+            {bandMembers}
+          </pre>
+          </p>
+          <p class="text-center font-medium text-xl">
+            {discography}
+          </pre>
+          </p>
           <Content />
         </section>
       </article>
