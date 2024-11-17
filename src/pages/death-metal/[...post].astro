@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 import BaseLayout from "src/layouts/BaseLayout.astro";
+import { marked } from 'marked';
 import "@styles/blog.less";
 
 export async function getStaticPaths() {
@@ -29,6 +30,10 @@ const {
   author,
 } = post.data;
 const { Content } = await post.render();
+
+// Parse the Markdown strings
+const parsedBandMembers = marked(bandMembers);
+const parsedDiscography = marked(discography);
 ---
 
 <BaseLayout {title}>
@@ -81,11 +86,9 @@ const { Content } = await post.render();
           <p class="text-center font-medium text-xl">
             {currentLabel}
           </p>
-          <div>
-            <Markdown content={bandMembers} />
+          <div set:html={parsedBandMembers}>
           </div>
-          <div>
-            <Markdown content={discography} />
+          <div set:html={parsedDiscography}>
           </div>
           <Content />
         </section>
