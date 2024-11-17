@@ -13,10 +13,15 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
       - { label: "Band", name: "band", widget: "string" }
+      - { label: "Country of Origin", name: "country", widget: "string" }
       - { label: "Location", name: "location", widget: "string" }
       - { label: "Status", name: "status", widget: "string" }
       - { label: "Genre", name: "genre", widget: "string" }
+      - { label: "Themes", name: "themes", widget: "string" }
+      - { label: "Current Label", name: "currentLabel", widget: "string" }
+      - { label: "Genre", name: "genre", widget: "string" }
       - { label: "Featured Image", name: "image", widget: "image" }
       - { label: "Image Caption", name: "imageAlt", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-      - { label: "Body", name: "body", widget: "markdown" }      
+      - { label: "Tags", name: "tags", widget: "list", default: ["death-metal"] }
+      - { label: "Band Members", name: "bandMembers", widget: "markdown" }    
+      - { label: "Discography", name: "discography", widget: "markdown" }     
