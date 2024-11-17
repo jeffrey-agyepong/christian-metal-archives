@@ -1,5 +1,7 @@
 ---
 band: Afterimage
+author: Jeffrey A.
+date: 2024-11-17T12:54:00.000Z
 country: United States
 location: Barrington, Illinois
 status: Hiatus
