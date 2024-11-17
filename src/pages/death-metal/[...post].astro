@@ -13,7 +13,20 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { band, country, location, status, genre, themes, currentLabel, bandMembers, discography, image, imageAlt, author } = post.data;
+const {
+  band,
+  country,
+  location,
+  status,
+  genre,
+  themes,
+  currentLabel,
+  bandMembers,
+  discography,
+  image,
+  imageAlt,
+  author,
+} = post.data;
 const { Content } = await post.render();
 ---
 
@@ -70,14 +83,27 @@ const { Content } = await post.render();
           </div>
         </div>
         <section id="blog-content">
-          {country}
-          {location}
+          <p>{country}</p>
+          <p>{location}</p>
+        <p>
           {status}
+        </p>
+        <p>
           {genre}
+        </p>
+         
+         <p>
           {themes}
+         </p>
+         <p>
           {currentLabel}
+         </p>
+         <p>
           {bandMembers}
-          {discography}
+         </p>
+          <p>
+            {discography}
+          </p>
           <Content />
         </section>
       </article>
@@ -91,5 +117,5 @@ const { Content } = await post.render();
     height: auto; /* Set height to auto to maintain aspect ratio */
     aspect-ratio: 16 / 9; /* Maintain the 16:9 aspect ratio */
     max-width: 760px; /* Optional: Set a max width */
-}
+  }
 </style>
