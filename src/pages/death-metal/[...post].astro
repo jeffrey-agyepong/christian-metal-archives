@@ -5,7 +5,7 @@ import BaseLayout from "src/layouts/BaseLayout.astro";
 import "@styles/blog.less";
 
 export async function getStaticPaths() {
-  const posts = await getCollection("death-metal");
+  const posts = await getCollection("deathMetal");
   return posts.map((entry) => ({
     params: { post: entry.slug },
     props: { post: entry },
@@ -85,22 +85,22 @@ const { Content } = await post.render();
         <section id="blog-content">
           <p>{country}</p>
           <p>{location}</p>
-        <p>
-          {status}
-        </p>
-        <p>
-          {genre}
-        </p>
-         
-         <p>
-          {themes}
-         </p>
-         <p>
-          {currentLabel}
-         </p>
-         <p>
-          {bandMembers}
-         </p>
+          <p>
+            {status}
+          </p>
+          <p>
+            {genre}
+          </p>
+
+          <p>
+            {themes}
+          </p>
+          <p>
+            {currentLabel}
+          </p>
+          <p>
+            {bandMembers}
+          </p>
           <p>
             {discography}
           </p>
