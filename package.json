@@ -12,7 +12,7 @@
   "dependencies": {
     "@astrojs/tailwind": "^5.1.2",
     "@fontsource/anton-sc": "^5.1.0",
-    "astro": "^4.16.2",
+    "astro": "^4.16.13",
     "astro-icon": "^1.1.0",
     "autoprefixer": "^10.4.19",
     "decap-server": "^3.0.4",

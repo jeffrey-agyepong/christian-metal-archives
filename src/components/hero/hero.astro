@@ -3,17 +3,16 @@ import Button from "../ui/button.astro";
 ---
 <div id="banner-310">
     <div class="cs-container">
-        <h1 class="cs-int-title">Christian Metal Music Magazine</h1>
+        <h1 class="cs-int-title">Explore the Legacy of Christian Metal Worldwide</h1>
        <div class="py-4">
-        <Button title="Explore Christian Metal" link="/music-reviews">
        </div>
     </div>
     <!--Background Image-->
-    <picture class="cs-background">
+    <!-- <picture class="cs-background">
         <source media="(max-width: 600px)" srcset="https://ik.imagekit.io/boxhuwbys/btg-header-image.webp?updatedAt=1728791102965">
         <source media="(min-width: 601px)" srcset="https://ik.imagekit.io/boxhuwbys/btg-header-image.webp?updatedAt=1728791102965">
         <img aria-hidden="true" loading="lazy" decoding="async" src="https://ik.imagekit.io/boxhuwbys/btg-header-image.webp?updatedAt=1728791102965" alt="library" width="1920" height="375">
-    </picture>
+    </picture> -->
 </div>
 
 <style>
@@ -24,10 +23,11 @@ import Button from "../ui/button.astro";
 /* Mobile - 360px */
 @media only screen and (min-width: 0rem) {
     #banner-310 {
+        background: #012061;
         /* 144px - 252px */
-        padding-top: clamp(9rem, 25vw, 15.75rem);
+        padding-top: clamp(5rem, 25vw, 10.75rem);
         /* 80px - 140px */
-        padding-bottom: clamp(5rem, 13vw, 8.75rem);
+        padding-bottom: clamp(5rem, 13vw, 0.75rem);
         position: relative;
         z-index: 1;
 
@@ -48,7 +48,7 @@ import Button from "../ui/button.astro";
             line-height: 1.2em;
             text-align: center;
             max-width: (700/16rem);
-            margin: 0 auto (12/16rem);
+            margin: 0 auto;
             color: var(--bodyTextColorWhite);
             position: relative;
             padding: 1rem;
