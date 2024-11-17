@@ -86,10 +86,16 @@ const parsedDiscography = marked(discography);
           <p class="text-center font-medium text-xl">
             {currentLabel}
           </p>
-          <div set:html={parsedBandMembers}>
-          </div>
-          <div set:html={parsedDiscography}>
-          </div>
+          <section>
+            <h2 class="text-center font-bold text-xl">Band Members</h2>
+            <div set:html={parsedBandMembers}>
+            </div>
+          </section>
+          <section>
+            <h2 class="text-center font-bold text-xl">Discography</h2>
+            <div set:html={parsedDiscography}>
+            </div>
+          </section>
           <Content />
         </section>
       </article>
