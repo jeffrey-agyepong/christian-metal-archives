@@ -52,7 +52,7 @@ const { Content } = await post.render();
 
       <article class="blog-article">
         <!--Main Article Image-->
-        <h1 class="blog-h1">{band}</h1>
+        <h1 class="blog-h1 text-center">{band}</h1>
         <picture class="blog-mainImage">
           <Image
             src={image}
@@ -64,24 +64,6 @@ const { Content } = await post.render();
         </picture>
 
         <!--Article Info-->
-        <div class="article-group">
-          <div class="blog-authorGroup">
-            <!--Author Image-->
-            <picture class="blog-author-img">
-              <img
-                src="/assets/svgs/profile.svg"
-                alt="house"
-                width="32"
-                height="32"
-                decoding="async"
-              />
-            </picture>
-            <span class="blog-author">{author}</span>
-            <span aria-hidden="true" class="blog-dot"></span>
-            <!--Blog Date-->
-            <!-- <span class="blog-date">{formatDate(date)}</span> -->
-          </div>
-        </div>
         <section id="blog-content">
           <p class="text-center font-medium text-xl">{country}</p>
           <p class="text-center font-medium text-xl">{location}</p>
