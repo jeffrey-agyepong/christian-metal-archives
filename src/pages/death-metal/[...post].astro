@@ -64,7 +64,7 @@ const { Content } = await post.render();
         </picture>
 
         <!--Article Info-->
-        <section>
+        <section id="blog-content">
           <p class="text-center font-medium text-xl">{country}</p>
           <p class="text-center font-medium text-xl">{location}</p>
           <p class="text-center font-medium text-xl">
@@ -80,14 +80,12 @@ const { Content } = await post.render();
           <p class="text-center font-medium text-xl">
             {currentLabel}
           </p>
-          <p class="text-center font-medium text-xl">
+          <!-- <p class="text-center font-medium text-xl">
             {bandMembers}
           </p>
           <p class="text-center font-medium text-xl">
             {discography}
-          </p>
-        </section>
-        <section id="blog-content">
+          </p> -->
           <Content />
         </section>
       </article>
