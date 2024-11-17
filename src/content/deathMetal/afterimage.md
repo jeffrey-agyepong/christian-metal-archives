@@ -13,23 +13,23 @@ imageAlt: "Afterimage "
 tags:
   - deathMetal
 bandMembers: |-
-  Eric Huber - Bass
+  Eric Huber - Bass <br>
 
-  Chris Sanchez - Guitars \[ex-Hour of Atonement]	
+  Chris Sanchez - Guitars \[ex-Hour of Atonement]	<br>
 
-  Dan Gleason -	Guitars \[Âstillian, ex-Day of Ascension (live)]
+  Dan Gleason -	Guitars \[Âstillian, ex-Day of Ascension (live)] <br>
 
   Mike Gleason -Vocals \[Âstillian, ex-Day of Ascension (live)]
 discography: |-
-  Afterimage - Demo - 2004 	 
+  Afterimage - Demo - 2004 <br> 	 
 
-  Demo 4 - Demo  - 2005 	 
+  Demo 4 - Demo  - 2005 <br> 
 
-  Burning Hands - Demo  - 2006 	 
+  Burning Hands - Demo  - 2006 <br>	 
 
-  Codex: Triumph in the Eschaton - EP - 2007 	 
+  Codex: Triumph in the Eschaton - EP - 2007 <br> 	 
 
-  Unveil the Unseen - Album Teaser - Demo - 2013 	 
+  Unveil the Unseen - Album Teaser - Demo - 2013 <br>	 
 
   Unveil the Unseen - Full-length - 2013
 ---
