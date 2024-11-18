@@ -14,6 +14,7 @@ image: https://ik.imagekit.io/boxhuwbys/afterimage.webp
 imageAlt: "Afterimage "
 tags:
   - deathMetal
+  - deathcore
 bandMembers: >-
   **Latest Lineup:**
 
