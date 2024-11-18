@@ -29,7 +29,10 @@ bandMembers: >-
   *Mike Gleason -Vocals \[Âstillian, ex-Day of Ascension (live)]*
 
 
-  **Former Members:Tom Hacker - Bass**  
+  **Former Members:**
+
+
+  *Tom Hacker - Bass*  
 
 
   *Justin Swanson - Bass, Guitars*  
