@@ -1,54 +1,23 @@
 ---
-title: Aletheian [Formerly known as Crutch]
-band: "Aletheian "
+title: Arthure
+band: Arthure
 author: Jeffrey A.
-date: 2024-11-18T12:03:00.000Z
+date: 2024-11-18T12:37:00.000Z
 country: United States
-location: Lebanon, Pennsylvania
-formed: "2003"
-status: Hiatus
-genre: Technical/Melodic Death Metal
+location: Chicago, Illinois
+formed: "2015"
+status: Active
+genre: Progressive Death Metal
 themes: Christianity
-currentLabel: Ironclad Recordings
-image: https://ik.imagekit.io/boxhuwbys/aletheian-band.webp
-imageAlt: Aletheian [Formerly known as Crutch]
+currentLabel: Independent
+image: https://ik.imagekit.io/boxhuwbys/arthure.webp
+imageAlt: Arthure (Nathan Arthur)
 tags:
   - deathMetal
-bandMembers: >-
+bandMembers: |-
   **Latest Lineup:**
 
-
-  *Joe Walmer - Drums \[ ex-Crutch, ex-Blind Influence]*
-
-
-  *Alex Kenis - Guitars \[ex-Solamors, ex-Synoptic Rise, ex-Crutch, ex-Becoming the Archetype]*	
-
-
-  *Joel Thorpe - Vocals*
-
-
-  **Former Members:**
-
-
-  *Donny Swigart - Guitars (rhythm) \[ex-Crutch]*  
-
-
-  *Andy High - Bass \[ex-Blind Influence]*  
-
-
-  *Chris Keeney - Guitars (rhythm) \[ex-Blind Influence]*  
-
-
-  *Travis Turner - Drums \[ex-Solamors, ex-Crutch, ex-Mid Evil]*  
-
-
-  *Travis Wagner - Bass, Guitars (rhythm) \[ex-Crutch (live), ex-Blind Influence]*  
-
-
-  *Derek Corzine - Guitars (rhythm) \[Blood Thirsty, Burial Extraction, Crowned in Sorrow, Syringe, Testimony of Apocalypse, ex-Whisper from Heaven, ex-Cosÿns, Derek Corzine, ex-Bloodline Severed, ex-Quester, ex-Solarian]*  
-
-
-  *Amy Lynn Corzine - Vocals (female) \[ex-Whisper from Heaven, ex-Bloodline Severed]*
+  *Nathan Arthur - All Instruments, Vocals*
 discography: >-
   Hope Prevails - Full-length - 2003  
 
