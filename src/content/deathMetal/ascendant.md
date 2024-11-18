@@ -17,18 +17,17 @@ tags:
 bandMembers: |-
   **Latest Lineup:**
 
-  *Levi Rauff - Drums \[ex-A Hill to Die Upon (live)]*
+  Levi Rauff - Drums \[ex-A Hill to Die Upon (live)]
 
-  *Kristoffer Vammen - Guitars \[ex-Hour of Atonement]*	
+  Kristoffer Vammen - Guitars \[ex-Hour of Atonement]	
 
-  *Josua Poulsen - Vocals*
+  Josua Poulsen - Vocals
 
-  *Jens Grønhøj -Vocals, Bass*
+  Jens Grønhøj -Vocals, Bass
 
+  **Former Member(s):**
 
-  **Former Members:**
-
-  *Thomas Langvad - Guitars*
+  Thomas Langvad - Guitars
 discography: >-
   The Alteration - Full-length - 2012 
 
