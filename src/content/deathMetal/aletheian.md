@@ -49,12 +49,18 @@ bandMembers: >-
 
 
   *Amy Lynn Corzine - Vocals (female) \[ex-Whisper from Heaven, ex-Bloodline Severed]*
-discography: |-
+discography: >-
   Hope Prevails - Full-length - 2003  
+
 
   Apolutrosis - Full-length - 2003  
 
+
   Dying Vine - Full-length - 2005  
 
+
   Live - Video - 2005
+
+
+  <iframe style="border: 0; width: 320px; height: 690px;" src="https://bandcamp.com/EmbeddedPlayer/album=1711273210/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://aletheian.bandcamp.com/album/dying-vine-10th-anniversary-24-bit">Dying Vine (10th anniversary 24​-​bit) by Aletheian</a></iframe>
 ---
