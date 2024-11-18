@@ -32,25 +32,27 @@ bandMembers: >-
   **Former Members:**
 
 
-  *Donny Swigart - Guitars (rhythm) \[ex-Crutch]*  
 
 
-  *Andy High - Bass \[ex-Blind Influence]*  
+  Donny Swigart - Guitars (rhythm) \[ex-Crutch]  
 
 
-  *Chris Keeney - Guitars (rhythm) \[ex-Blind Influence]*  
+  Andy High - Bass \[ex-Blind Influence]  
 
 
-  *Travis Turner - Drums \[ex-Solamors, ex-Crutch, ex-Mid Evil]*  
+  Chris Keeney - Guitars (rhythm) \[ex-Blind Influence]  
 
 
-  *Travis Wagner - Bass, Guitars (rhythm) \[ex-Crutch (live), ex-Blind Influence]*  
+  Travis Turner - Drums \[ex-Solamors, ex-Crutch, ex-Mid Evil]  
 
 
-  *Derek Corzine - Guitars (rhythm) \[Blood Thirsty, Burial Extraction, Crowned in Sorrow, Syringe, Testimony of Apocalypse, ex-Whisper from Heaven, ex-Cosÿns, Derek Corzine, ex-Bloodline Severed, ex-Quester, ex-Solarian]*  
+  Travis Wagner - Bass, Guitars (rhythm) \[ex-Crutch (live), ex-Blind Influence]  
 
 
-  *Amy Lynn Corzine - Vocals (female) \[ex-Whisper from Heaven, ex-Bloodline Severed]*
+  Derek Corzine - Guitars (rhythm) \[Blood Thirsty, Burial Extraction, Crowned in Sorrow, Syringe, Testimony of Apocalypse, ex-Whisper from Heaven, ex-Cosÿns, Derek Corzine, ex-Bloodline Severed, ex-Quester, ex-Solarian]  
+
+
+  Amy Lynn Corzine - Vocals (female) \[ex-Whisper from Heaven, ex-Bloodline Severed]
 discography: >-
   Hope Prevails - Full-length - 2003  
 
