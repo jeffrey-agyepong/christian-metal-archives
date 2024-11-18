@@ -47,5 +47,5 @@ discography: >-
   Bundle: Serenity / The Alteration - Compilation - 2014
 
 
-  <iframe style="border: 0; width: 320px; height: 756px;" src="https://bandcamp.com/EmbeddedPlayer/album=558508107/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://ascendant.bandcamp.com/album/bundle-serenity-the-alteration">Bundle: Serenity / The Alteration by Ascendant</a></iframe>
+  <iframe style="border: 0; width: 300px; height: 756px;" src="https://bandcamp.com/EmbeddedPlayer/album=558508107/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://ascendant.bandcamp.com/album/bundle-serenity-the-alteration">Bundle: Serenity / The Alteration by Ascendant</a></iframe>
 ---
