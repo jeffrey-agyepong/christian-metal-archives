@@ -17,7 +17,7 @@ tags:
 bandMembers: |-
   **Latest Lineup:**
 
-  *Nathan Arthur - All Instruments, Vocals*
+  Nathan Arthur - All Instruments, Vocals
 discography: >-
   CAPSUL - EP - 2015
 
