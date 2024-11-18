@@ -71,28 +71,28 @@ const parsedDiscography = marked(discography);
 
         <!--Article Info-->
         <section id="blog-content">
-          <p class="font-medium text-xl">{country}</p>
-          <p class="font-medium text-xl">{location}</p>
+          <p class="font-medium text-xl">Country of Origin: {country}</p>
+          <p class="font-medium text-xl">Location: {location}</p>
           <p class="font-medium text-xl">
-            {status}
+            Status: {status}
           </p>
           <p class="font-medium text-xl">
-            {genre}
+            Genre: {genre}
           </p>
 
           <p class="font-medium text-xl">
-            {themes}
+            Themes: {themes}
           </p>
           <p class="font-medium text-xl">
-            {currentLabel}
+            Current Label: {currentLabel}
           </p>
           <section>
-            <h2 class="font-bold text-xl">Band Members</h2>
+            <h3 class="font-bold text-xl">Band Members:</h3>
             <div set:html={parsedBandMembers}>
             </div>
           </section>
           <section>
-            <h2 class="font-bold text-xl">Discography</h2>
+            <h3 class="font-bold text-xl">Discography:</h3>
             <div set:html={parsedDiscography}>
             </div>
           </section>
