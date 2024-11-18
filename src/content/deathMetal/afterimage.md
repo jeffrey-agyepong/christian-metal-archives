@@ -14,20 +14,46 @@ image: https://ik.imagekit.io/boxhuwbys/afterimage.webp
 imageAlt: "Afterimage "
 tags:
   - deathMetal
-bandMembers: |-
-  Eric Huber - Bass 
+bandMembers: >-
+  **Latest Lineup:**
+
+  *Eric Huber - Bass* 
 
 
-
-  Chris Sanchez - Guitars \[ex-Hour of Atonement]	
-
+  *Chris Sanchez - Guitars \[ex-Hour of Atonement]*	
 
 
-  Dan Gleason -	Guitars \[Âstillian, ex-Day of Ascension (live)] 
+  *Dan Gleason -	Guitars \[Âstillian, ex-Day of Ascension (live)]* 
 
 
+  *Mike Gleason -Vocals \[Âstillian, ex-Day of Ascension (live)]*
 
-  Mike Gleason -Vocals \[Âstillian, ex-Day of Ascension (live)]
+
+  **Former Members:Tom Hacker - Bass**  
+
+
+  *Justin Swanson - Bass, Guitars*  
+
+
+  *Mike DeStefano - Drums \[Vukari, ex-Valley of Hinnom, ex-Abigail Williams (live), ex-Wolvhammer (live)]*  
+
+
+  *Slawek Kreller - Drums \[ex-Hour of Atonement]*  
+
+
+  *Wes Sherwood - Drums*  
+
+
+  *Brad Johnson - Drums \[Second Wind, ex-Sins of Spira]*  
+
+
+  *Eric Lee - Guitars*  
+
+
+  *James LoGalbo - Guitars*  
+
+
+  *David DeStefano - Guitars \[Âstillian]*
 discography: >-
   Afterimage - Demo - 2004 
 
