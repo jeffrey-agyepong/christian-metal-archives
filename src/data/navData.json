@@ -6,35 +6,35 @@
   },
   {
     "key": "Genres",
-    "url": "/genres/",
+    "url": "/",
     "children": [
       {
         "key": "Death Metal",
-        "url": "/genres/death-metal/"
+        "url": "/death-metal/"
       },
       {
         "key": "Black Metal",
-        "url": "/genres/black-metal/"
+        "url": "/black-metal/"
       },
       {
         "key": "Power Metal",
-        "url": "/genres/power-metal/"
+        "url": "/power-metal/"
       },
       {
         "key": "Groove Metal",
-        "url": "/genres/groove-metal/"
+        "url": "/groove-metal/"
       },
       {
         "key": "Metalcore",
-        "url": "/genres/metalcore/"
+        "url": "/metalcore/"
       },
       {
         "key": "Deathcore",
-        "url": "/genres/deathcore/"
+        "url": "/deathcore/"
       },
       {
         "key": "Progressive Metal",
-        "url": "/genres/progressive-metal/"
+        "url": "/progressive-metal/"
       }
 
     ]     
