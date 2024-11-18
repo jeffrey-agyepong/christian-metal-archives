@@ -23,4 +23,21 @@ discography: >-
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/capsul.jpg" alt="CAPSUL - EP cover" style="width:300px; height:auto;">
+
+
+  Frail - Full length - 2016
+
+  Piety - Single - 2016
+
+
+  Dichotomy  - Full length - 2018
+
+
+  Grasp - Single - 2018
+
+
+  A New Journey - EP -2018
+
+
+  Thrice - Single - 2023
 ---
