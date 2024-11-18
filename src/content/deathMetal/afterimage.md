@@ -70,7 +70,7 @@ discography: >-
   Codex: Triumph in the Eschaton - EP - 2007 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/afterimage-codex.jpg?updatedAt=1731901409554" alt="Afterimage Codex" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/afterimage-codex.jpg?updatedAt=1731901409554" alt="Afterimage - Codex: Triumph in the Eschaton - EP cover" style="width:300px; height:auto;">
 
 
   Unveil the Unseen - Album Teaser - Demo - 2013 
@@ -81,9 +81,7 @@ discography: >-
 
   <img src="
 
-  https://ik.imagekit.io/boxhuwbys/afterimage-unveil.jpg?updatedAt=1731901770098" alt="Afterimage Codex" style="width:300px; height:auto;">
-
-
+  https://ik.imagekit.io/boxhuwbys/afterimage-unveil.jpg?updatedAt=1731901770098" alt="Afterimage Unveil the Unseen - Full-length cover" style="width:300px; height:auto;">
 
 
   <iframe style="border: 0; width: 320px; height: 558px;" src="https://bandcamp.com/EmbeddedPlayer/album=2209508921/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://afterimagemetal.bandcamp.com/album/unveil-the-unseen-album-teaser">Unveil The Unseen - Album Teaser by Afterimage</a></iframe>
