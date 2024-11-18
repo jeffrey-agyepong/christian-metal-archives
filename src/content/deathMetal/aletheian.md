@@ -53,10 +53,28 @@ discography: >-
   Hope Prevails - Full-length - 2003  
 
 
-  Apolutrosis - Full-length - 2003  
+
+  <img src="https://ik.imagekit.io/boxhuwbys/crutch-hope-prevails.jpg" alt="Afterimage Codex" style="width:300px; height:auto;">
+
+
+
+
+  Apolutrosis - Full-length - 2003 
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/aletheian-apolutrosis.jpg" alt="Afterimage Codex" style="width:300px; height:auto;">
+
 
 
   Dying Vine - Full-length - 2005  
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/dying-vine-aletheian.jpg" alt="Afterimage Codex" style="width:300px; height:auto;">
+
+
+
 
 
   Live - Video - 2005
