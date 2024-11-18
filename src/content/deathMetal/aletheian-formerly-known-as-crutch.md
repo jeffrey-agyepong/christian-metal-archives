@@ -32,8 +32,6 @@ bandMembers: >-
   **Former Members:**
 
 
-
-
   Donny Swigart - Guitars (rhythm) \[ex-Crutch]  
 
 
