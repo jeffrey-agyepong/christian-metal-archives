@@ -27,7 +27,7 @@ bandMembers: |-
 
 
   Mike Gleason -Vocals \[Âstillian, ex-Day of Ascension (live)]
-discography: |-
+discography: >-
   Afterimage - Demo - 2004 
 
    	 
@@ -36,15 +36,20 @@ discography: |-
 
 
 
+
   Burning Hands - Demo  - 2006 
+
 
 
 
   Codex: Triumph in the Eschaton - EP - 2007 
 
+  ![Afterimage Codex](https://ik.imagekit.io/boxhuwbys/afterimage-codex.jpg?updatedAt=1731901409554)
+
    
 
   Unveil the Unseen - Album Teaser - Demo - 2013 
+
 
 
 
