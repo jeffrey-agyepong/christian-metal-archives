@@ -8,14 +8,13 @@ import { formatDate } from "@libs/utils.js";
 import Landing from "@components/Landing.astro";
 import "@styles/blog.less";
 
-const posts = await getCollection("news");
-posts.sort(
-  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
-);
+const posts = await getCollection("deathcore");
+posts.sort
+  ((a,b) => a.data.band.localeCompare(b.data.band));
 ---
 
 <BaseLayout
-  title="News"
+  title="Deathcore"
   description="Stay updated with the latest news in Christian Metal and Hardcore. Don't miss out on band updates, album releases, and scene events."
   preloadImg=""
 >
@@ -24,7 +23,7 @@ posts.sort(
   <!-- ============================================ -->
 
   <Landing 
-    title="News"
+    title="Deathcore"
   />
 
   <!-- ============================================ -->
@@ -37,7 +36,7 @@ posts.sort(
       <!-- ============================================ -->
       <!--                 Blog Articles                -->
       <!-- ============================================ -->
-       <div class="flex flex-row flex-wrap gap-8 m-4">
+       <div class="flex flex-row flex-wrap m-4">
 
       
       {posts.length === 0 && <h1>No Recent Posts</h1>}
@@ -68,13 +67,11 @@ posts.sort(
                       decoding="async"
                     />
                   </picture> */}
-                  <span class="blog-author">{post.data.author}</span>
-                  <span aria-hidden="true" class="blog-dot" />
-                  <span class="blog-date">{formatDate(post.data.date)}</span>
                 </div>
-                <h2 class="blog-h1">{post.data.title}</h2>
+                <h2 class="blog-h1 uppercase">{post.data.band}</h2>
+                <p class="blog-h1">{post.data.genre}</p>
                 <a href={post.slug} class="blog-link">
-                  Read
+                  View Info
                 </a>
               </div>
             </article>
