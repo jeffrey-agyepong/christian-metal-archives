@@ -73,5 +73,5 @@ discography: >-
   Live - Video - 2005
 
 
-  <iframe style="border: 0; width: 320px; height: 690px;" src="https://bandcamp.com/EmbeddedPlayer/album=1711273210/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://aletheian.bandcamp.com/album/dying-vine-10th-anniversary-24-bit">Dying Vine (10th anniversary 24​-​bit) by Aletheian</a></iframe>
+  <iframe style="border: 0; width: 300px; height: 690px;" src="https://bandcamp.com/EmbeddedPlayer/album=1711273210/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://aletheian.bandcamp.com/album/dying-vine-10th-anniversary-24-bit">Dying Vine (10th anniversary 24​-​bit) by Aletheian</a></iframe>
 ---
