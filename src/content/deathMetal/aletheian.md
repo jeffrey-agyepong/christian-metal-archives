@@ -1,6 +1,6 @@
 ---
-title: Aletheian
-band: Aletheian [Formerly known as Crutch]
+title: Aletheian [Formerly known as Crutch]
+band: "Aletheian "
 author: Jeffrey A.
 date: 2024-11-18T12:03:00.000Z
 country: United States
