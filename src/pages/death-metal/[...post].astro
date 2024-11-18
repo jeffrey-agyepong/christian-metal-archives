@@ -71,35 +71,36 @@ const parsedDiscography = marked(discography);
 
         <!--Article Info-->
         <section id="blog-content">
+         <div class="mb-8">
           <p class="font-medium text-xl">
-           <span class="font-bold">Country of Origin: </span> {country}
-          </p>
-          <p class="font-medium text-xl">
-            <span class="font-bold">Location: </span>
-            {location}</p>
-          <p class="font-medium text-xl">
-            <span class="font-bold">Status:</span> {status}
-          </p>
-          <p class="font-medium text-xl">
-            <span class="font-bold">Genre: </span>{genre}
-          </p>
-
-          <p class="font-medium text-xl">
-            <span class="font-bold">Themes:</span> {themes}
-          </p>
-          <p class="font-medium text-xl">
-            <span class="font-bold">Current Label:</span> {currentLabel}
-          </p>
-          <section>
+            <span class="font-bold">Country of Origin: </span> {country}
+           </p>
+           <p class="font-medium text-xl">
+             <span class="font-bold">Location: </span>
+             {location}</p>
+           <p class="font-medium text-xl">
+             <span class="font-bold">Status:</span> {status}
+           </p>
+           <p class="font-medium text-xl">
+             <span class="font-bold">Genre: </span>{genre}
+           </p>
+           <p class="font-medium text-xl">
+             <span class="font-bold">Themes:</span> {themes}
+           </p>
+           <p class="font-medium text-xl">
+             <span class="font-bold">Current Label:</span> {currentLabel}
+           </p>
+         </div>
+          <div class="mb-8">
             <h3 class="font-bold text-lg">Band Members:</h3>
             <div set:html={parsedBandMembers}>
             </div>
-          </section>
-          <section>
+          </div>
+          <div class="mb-8">
             <h3 class="font-bold text-lg">Discography:</h3>
             <div set:html={parsedDiscography}>
             </div>
-          </section>
+          </div>
           <Content />
         </section>
       </article>
