@@ -40,7 +40,10 @@ discography: >-
   Codex: Triumph in the Eschaton - EP - 2007 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/afterimage-codex.jpg?updatedAt=1731901409554" alt="Afterimage Codex" width="300" height="300" class="img-resize">
+
+  <img src="https://ik.imagekit.io/boxhuwbys/afterimage-codex.jpg?updatedAt=1731901409554" alt="Afterimage Codex" style="width:300px; height:auto;">
+
+
 
 
   Unveil the Unseen - Album Teaser - Demo - 2013 
@@ -51,7 +54,5 @@ discography: >-
 
   <img src="
 
-  https://ik.imagekit.io/boxhuwbys/afterimage-unveil.jpg?updatedAt=1731901770098" alt="Afterimage Codex" width="300" height="300" 
-
-  class="img-resize">
+  https://ik.imagekit.io/boxhuwbys/afterimage-unveil.jpg?updatedAt=1731901770098" alt="Afterimage Codex" style="width:300px; height:auto;">
 ---
