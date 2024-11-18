@@ -9,9 +9,8 @@ import Landing from "@components/Landing.astro";
 import "@styles/blog.less";
 
 const posts = await getCollection("deathMetal");
-posts.sort(
-  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
-);
+posts.sort
+  ((a,b) => a.data.band.localeCompare(b.data.band));
 ---
 
 <BaseLayout
