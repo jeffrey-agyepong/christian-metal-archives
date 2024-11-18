@@ -19,9 +19,9 @@ bandMembers: |-
 
   Kristoffer Vammen - Guitars \[ex-Hour of Atonement]	
 
-  Josua Poulsen -	Vocals
+  Josua Poulsen - Vocals
 
-  Josua Poulsen -Vocals, Bass
+  Jens Grønhøj -Vocals, Bass
 discography: >-
   The Alteration - Full-length - 2012 
 
