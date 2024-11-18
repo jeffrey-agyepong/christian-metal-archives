@@ -33,7 +33,7 @@ discography: >-
   The Alteration - Full-length - 2012 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/ascendant-the-alteration.jpg" alt="Afterimage Codex" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/ascendant-the-alteration.jpg" alt="Ascendant - The Alteration - Full-length cover" style="width:300px; height:auto;">
 
 
   When We Blindly Follow the Enigma - Single - 2013
@@ -42,12 +42,10 @@ discography: >-
   Serenity - EP - 2014
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/ascendant-serenity.jpg" alt="Afterimage Codex" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/ascendant-serenity.jpg" alt="Ascendant - Serenity - EP cover" style="width:300px; height:auto;">
 
 
   Bundle: Serenity / The Alteration - Compilation - 2014
-
-
 
 
   <iframe style="border: 0; width: 320px; height: 756px;" src="https://bandcamp.com/EmbeddedPlayer/album=558508107/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://ascendant.bandcamp.com/album/bundle-serenity-the-alteration">Bundle: Serenity / The Alteration by Ascendant</a></iframe>
