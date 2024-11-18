@@ -18,13 +18,15 @@ bandMembers: >-
   **Latest Lineup:**
 
 
-  *Joe Walmer - Drums \[ ex-Crutch, ex-Blind Influence]*
+  Joe Walmer - Drums \[ ex-Crutch, ex-Blind Influence]
 
 
-  *Alex Kenis - Guitars \[ex-Solamors, ex-Synoptic Rise, ex-Crutch, ex-Becoming the Archetype]*	
+  Alex Kenis - Guitars \[ex-Solamors, ex-Synoptic Rise, ex-Crutch, ex-Becoming the Archetype]	
 
 
-  *Joel Thorpe - Vocals*
+  Joel Thorpe - Vocals
+
+
 
 
   **Former Members:**
