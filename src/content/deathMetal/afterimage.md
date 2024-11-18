@@ -17,6 +17,8 @@ tags:
 bandMembers: >-
   **Latest Lineup:**
 
+
+
   *Eric Huber - Bass* 
 
 
