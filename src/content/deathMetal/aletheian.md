@@ -71,4 +71,9 @@ discography: >-
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/athure-thrice.jpg" alt="Arthure Thrice Single cover" style="width:300px; height:auto;">
+
+  <br> <br>
+
+
+  <iframe style="border: 0; width: 320px; height: 756px;" src="https://bandcamp.com/EmbeddedPlayer/album=1695201160/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://arthureofficial.bandcamp.com/album/dichotomy">Dichotomy by Arthure</a></iframe>
 ---
