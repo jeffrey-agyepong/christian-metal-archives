@@ -71,20 +71,24 @@ const parsedDiscography = marked(discography);
 
         <!--Article Info-->
         <section id="blog-content">
-          <p class="font-medium text-xl">Country of Origin: {country}</p>
-          <p class="font-medium text-xl">Location: {location}</p>
           <p class="font-medium text-xl">
-            Status: {status}
+           <span class="font-bold">Country of Origin: </span> {country}
           </p>
           <p class="font-medium text-xl">
-            Genre: {genre}
+            <span class="font-bold">Location: </span>
+            {location}</p>
+          <p class="font-medium text-xl">
+            <span class="font-bold">Status:</span> {status}
+          </p>
+          <p class="font-medium text-xl">
+            <span class="font-bold">Genre: </span>{genre}
           </p>
 
           <p class="font-medium text-xl">
-            Themes: {themes}
+            <span class="font-bold">Themes:</span> {themes}
           </p>
           <p class="font-medium text-xl">
-            Current Label: {currentLabel}
+            <span class="font-bold">Current Label:</span> {currentLabel}
           </p>
           <section>
             <h3 class="font-bold text-xl">Band Members:</h3>
