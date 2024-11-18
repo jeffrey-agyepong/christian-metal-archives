@@ -5,6 +5,7 @@ author: Jeffrey A.
 date: 2024-11-17T21:26:00.000Z
 country: Demark
 location: Aarhus, Midtjylland
+formed: "2011"
 status: "     Active"
 genre: Blackened Death Metal
 themes: Christianity
@@ -22,13 +23,10 @@ bandMembers: |-
 
   Josua Poulsen -Vocals, Bass
 discography: >-
-  
   The Alteration - Full-length - 2012 
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/ascendant-the-alteration.jpg" alt="Afterimage Codex" style="width:300px; height:auto;">
-
 
 
   When We Blindly Follow the Enigma - Single - 2013
@@ -41,4 +39,9 @@ discography: >-
 
 
   Bundle: Serenity / The Alteration - Compilation - 2014
+
+
+
+
+  <iframe style="border: 0; width: 320px; height: 756px;" src="https://bandcamp.com/EmbeddedPlayer/album=558508107/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://ascendant.bandcamp.com/album/bundle-serenity-the-alteration">Bundle: Serenity / The Alteration by Ascendant</a></iframe>
 ---
