@@ -15,13 +15,20 @@ imageAlt: Ascendant
 tags:
   - deathMetal
 bandMembers: |-
-  Levi Rauff - Drums \[ex-A Hill to Die Upon (live)]
+  **Latest Lineup:**
 
-  Kristoffer Vammen - Guitars \[ex-Hour of Atonement]	
+  *Levi Rauff - Drums \[ex-A Hill to Die Upon (live)]*
 
-  Josua Poulsen - Vocals
+  *Kristoffer Vammen - Guitars \[ex-Hour of Atonement]*	
 
-  Jens Grønhøj -Vocals, Bass
+  *Josua Poulsen - Vocals*
+
+  *Jens Grønhøj -Vocals, Bass*
+
+
+  **Former Members:**
+
+  *Thomas Langvad - Guitars*
 discography: >-
   The Alteration - Full-length - 2012 
 
