@@ -85,7 +85,7 @@ const parsedDiscography = marked(discography);
               {status}
             </p>
             <p class="font-medium text-xl">
-              <span class="font-bold">Genre:</span>{genre}
+              <span class="font-bold">Genre:</span> {genre}
             </p>
             <p class="font-medium text-xl">
               <span class="font-bold">Themes:</span>
@@ -112,10 +112,12 @@ const parsedDiscography = marked(discography);
 </BaseLayout>
 
 <style>
-  #blog-content{
-    background: #2e019d;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  .blog-article{
+    background: #132e54;
+    /* box-shadow: rgba(0, 0, 0, 0.014) 0px 3px 8px; */
     border-radius: 8px;
+    padding: 1rem;
+    border-top: 0px;
   }
   iframe {
     width: 100%; /* Set the width to 100% */
