@@ -14,6 +14,7 @@ image: https://ik.imagekit.io/boxhuwbys/Becoming-The-Archetype-band-2022.webp
 imageAlt: Becoming the Archetype
 tags:
   - deathMetal
+  - deathcore
 bandMembers: >-
   **Latest Lineup:**
 
