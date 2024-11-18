@@ -86,5 +86,5 @@ discography: >-
   https://ik.imagekit.io/boxhuwbys/afterimage-unveil.jpg?updatedAt=1731901770098" alt="Afterimage Unveil the Unseen - Full-length cover" style="width:300px; height:auto;">
 
 
-  <iframe style="border: 0; width: 320px; height: 558px;" src="https://bandcamp.com/EmbeddedPlayer/album=2209508921/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://afterimagemetal.bandcamp.com/album/unveil-the-unseen-album-teaser">Unveil The Unseen - Album Teaser by Afterimage</a></iframe>
+  <iframe style="border: 0; width: 300px; height: 558px;" src="https://bandcamp.com/EmbeddedPlayer/album=2209508921/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://afterimagemetal.bandcamp.com/album/unveil-the-unseen-album-teaser">Unveil The Unseen - Album Teaser by Afterimage</a></iframe>
 ---
