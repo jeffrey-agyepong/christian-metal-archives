@@ -12,10 +12,14 @@ const collections = await Promise.all([
 ]);
 
 // Combine all posts into a single array
-const posts = collections.flat();
+const posts = collections.flatMap((collection, index) =>
+collection.map((post) =>({
+  ...post,
+  data:{ ...post.data, genre: index === 0 ? "deathcore" : index === 1 ? "metalcore" : "death-metal"}
+})));
 
 // Sort the combined posts by band name
-posts.sort((a, b) => a.data.band.localeCompare(b.data.band));
+// posts.sort((a, b) => a.data.band.localeCompare(b.data.band));
 
 const uniquePosts = posts.filter((post, index, self) =>
   index === self.findIndex((p) => p.data.band === post.data.band)
@@ -81,20 +85,11 @@ console.log(uniquePosts);
 
             <div class="article-group interview">
               <div class="blog-authorGroup">
-                {/* <picture class="blog-author-img">
-                  <img
-                    src="/assets/svgs/profile.svg"
-                    alt="house"
-                    width="32"
-                    height="32"
-                    decoding="async"
-                  />
-                </picture> */}
               </div>
               <h2 class="blog-h1 uppercase">{post.data.band}</h2>
-              <p class="blog-h1">{post.data.genre}</p>
-              <a href={post.slug} class="blog-link">
-                View Info
+              {/* <p class="blog-h1">{post.data.genre}</p> */}
+              <a href={`/${post.data.genre}/${post.slug}`} class="blog-link">
+                View Band Info
               </a>
             </div>
           </article>

@@ -40,6 +40,14 @@
     ]     
   },
   {
+    "key": "Reviews",
+    "url": "https://beyondthegravemag.com/music-reviews/"
+  },
+  {
+     "key": "Interviews",
+    "url": "https://beyondthegravemag.com/interviews/"
+  },
+  {
     "key": "Samplers",
     "url": "/samplers/",
     "children": []
