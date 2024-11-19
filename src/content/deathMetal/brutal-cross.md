@@ -43,8 +43,8 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/brutal-cross-the-perfect-storm.webp" alt="Brutal Cross - The Perfect Storm - Full-length  cover" style="width:300px; height:auto;">
 
 
-
-
-
   <br> <br>
+
+
+  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=1509241783/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://visionofgodrecords.bandcamp.com/album/the-perfect-storm">The Perfect Storm by Brutal Cross</a></iframe>
 ---
