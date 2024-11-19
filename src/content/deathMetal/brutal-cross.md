@@ -36,5 +36,15 @@ discography: >-
 
   <img src="https://ik.imagekit.io/boxhuwbys/brutal-cross-at-war.webp" alt="Brutal Cross - At War - Full-length  cover" style="width:300px; height:auto;">
 
+
+  **The Perfect Storm - Full-length - 2014** 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/brutal-cross-the-perfect-storm.webp" alt="Brutal Cross - The Perfect Storm - Full-length  cover" style="width:300px; height:auto;">
+
+
+
+
+
   <br> <br>
 ---
