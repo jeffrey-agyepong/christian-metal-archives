@@ -34,7 +34,7 @@ discography: >-
   **At War - Full-length - 2014** 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/woe-to-the-city-of-blood.jpg" alt="Arthure Piety Singke cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/brutal-cross-at-war.webp" alt="Brutal Cross - At War - Full-length  cover" style="width:300px; height:auto;">
 
   <br> <br>
 ---
