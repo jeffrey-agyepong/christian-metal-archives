@@ -1,6 +1,28 @@
 ---
 import Hero from "./hero/hero.astro";
-import Buttonalt from "./ui/buttonAlt.astro";
+import ButtonAlt from "./ui/buttonAlt.astro";
+import { getCollection } from "astro:content";
+import "@styles/blog.less";
+import { Image } from "astro:assets";
+
+const collections = await Promise.all([
+  getCollection("deathcore"),
+  getCollection("metalcore"),
+  getCollection("deathMetal")
+]);
+
+// Combine all posts into a single array
+const posts = collections.flat();
+
+// Sort the combined posts by band name
+posts.sort((a, b) => a.data.band.localeCompare(b.data.band));
+
+const uniquePosts = posts.filter((post, index, self) =>
+  index === self.findIndex((p) => p.data.band === post.data.band)
+);
+
+uniquePosts.sort((a,b) => a.data.band.localeCompare(b.data.band))
+console.log(uniquePosts);
 ---
 
 <!-- ============================================ --><!--                    Blog                      --><!-- ============================================ -->
@@ -12,24 +34,76 @@ import Buttonalt from "./ui/buttonAlt.astro";
       <div class="mt-8">
        <div class="flex flex-wrap gap-4">
         <!-- ------ Metal --------  -->
-        <Buttonalt title="Death Metal" link="/death-metal"/>
-        <Buttonalt title="Black Metal" link="/black-metal"/>
-        <Buttonalt title="Symphonic Metal" link="/symphonic-metal"/>
-        <Buttonalt title="Progressive Metal" link="/progressive-metal"/>
-        <Buttonalt title="Thrash Metal" link="/thrash-metal"/>
-        <Buttonalt title="Gothic Metal" link="/gothic-metal"/>
-        <Buttonalt title="Power Metal" link="/power-metal"/>
-        <Buttonalt title="Folk Metal" link="/folk-metal"/>
+        <ButtonAlt title="Death Metal" link="/death-metal"/>
+        <ButtonAlt title="Black Metal" link="/black-metal"/>
+        <ButtonAlt title="Symphonic Metal" link="/symphonic-metal"/>
+        <ButtonAlt title="Progressive Metal" link="/progressive-metal"/>
+        <ButtonAlt title="Thrash Metal" link="/thrash-metal"/>
+        <ButtonAlt title="Gothic Metal" link="/gothic-metal"/>
+        <ButtonAlt title="Power Metal" link="/power-metal"/>
+        <ButtonAlt title="Folk Metal" link="/folk-metal"/>
          <!-- ------ Core  --------  -->
-        <Buttonalt title="Deathcore" link="/deathcore"/>
-        <Buttonalt title="Metalcore" link="/metalcore"/>
-        <Buttonalt title="Hardcore" link="/mathcore"/>
+        <ButtonAlt title="Deathcore" link="/deathcore"/>
+        <ButtonAlt title="Metalcore" link="/metalcore"/>
+        <ButtonAlt title="Hardcore" link="/mathcore"/>
        </div>
       </div>
     </div>
   </div>
 </section>
 
+
+<div class="blog-container main-content-wrapper">
+  <!--Main content -->
+  <div class="main-content">
+    <!-- ============================================ -->
+    <!--                 Blog Articles                -->
+    <!-- ============================================ -->
+     <div class="flex flex-row flex-wrap gap-2 m-4">
+
+    
+    {uniquePosts.length === 0 && <h1>No Recent uniquePosts</h1>}
+    {
+      uniquePosts.length >= 1 &&
+        uniquePosts.map((post) => (
+         <div class="sm:max-w-xs lg:max-w-md m-4 mx-auto">
+           <article class="recent-articles flex-1">
+            <picture class="blog-mainImage">
+              <Image
+                src={post.data.image}
+                alt={post.data.imageAlt}
+                width="795"
+                height="400"
+                decoding="async"
+                
+              />
+            </picture>
+
+            <div class="article-group interview">
+              <div class="blog-authorGroup">
+                {/* <picture class="blog-author-img">
+                  <img
+                    src="/assets/svgs/profile.svg"
+                    alt="house"
+                    width="32"
+                    height="32"
+                    decoding="async"
+                  />
+                </picture> */}
+              </div>
+              <h2 class="blog-h1 uppercase">{post.data.band}</h2>
+              <p class="blog-h1">{post.data.genre}</p>
+              <a href={post.slug} class="blog-link">
+                View Info
+              </a>
+            </div>
+          </article>
+         </div>
+        ))
+    }
+     </div>
+  </div>
+</div>
 <style>
   /* Mobile - 360px */
   @media only screen and (min-width: 0rem) {
