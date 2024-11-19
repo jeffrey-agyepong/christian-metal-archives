@@ -23,19 +23,13 @@ discography: >-
   **Sanguine River Absolution - Full-length - 2014**  
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/sanguine-river-absolution.jpg" alt="Blood Thirsty Sanguine River Absolution - Full-length cover" style="width:300px; height:auto;">
-
-
 
 
   **O Come Emmanuel (The One Foretold) - Single - 2014**  
 
 
-
-  <img src="https://ik.imagekit.io/boxhuwbys/o-come-emmanuel.jpg" alt="O Come Emmanuel (The One Foretold) - Singlel cover" style="width:300px; height:auto;">
-
-
+  <img src="https://ik.imagekit.io/boxhuwbys/o-come-emmanuel.jpg" alt="O Come Emmanuel (The One Foretold) - Single cover" style="width:300px; height:auto;">
 
 
   **Woe to the City of Blood - EP - 2015**  
