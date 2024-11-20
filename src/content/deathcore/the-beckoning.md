@@ -65,7 +65,7 @@ discography: >-
   **Sanctuary - EP - 2021**  
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="The Beckoning - Sanctuary - EP cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/the-beckoning-sanctuary.jpg" alt="The Beckoning - Sanctuary - EP cover" style="width:300px; height:auto;">
 
   <br> <br>
 
