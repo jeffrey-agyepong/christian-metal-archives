@@ -4,19 +4,18 @@ import CTA from "@components/CTA.astro";
 import { getCollection } from "astro:content";
 import { Image } from "astro:assets";
 
-import { formatDate } from "@libs/utils.js";
+// import { formatDate } from "@libs/utils.js";
 import Landing from "@components/Landing.astro";
 import "@styles/blog.less";
 
 const posts = await getCollection("metalcore");
-posts.sort(
-  (a, b) => new Date(b.data.date).valueOf() - new Date(a.data.date).valueOf()
-);
+posts.sort
+  ((a,b) => a.data.band.localeCompare(b.data.band));
 ---
 
 <BaseLayout
   title="Metalcore"
-  description="Explore Metalcore band profiles showcasing artist backgrounds, discographies, and lineup information."
+  description="Browse Metalcore band profiles with comprehensive bios, member details, and album highlights."
   preloadImg=""
 >
   <!-- ============================================ -->
@@ -37,7 +36,7 @@ posts.sort(
       <!-- ============================================ -->
       <!--                 Blog Articles                -->
       <!-- ============================================ -->
-       <div class="flex flex-row flex-wrap gap-8 m-4">
+       <div class="flex flex-row flex-wrap gap-2 m-4">
 
       
       {posts.length === 0 && <h1>No Recent Posts</h1>}
@@ -68,13 +67,11 @@ posts.sort(
                       decoding="async"
                     />
                   </picture> */}
-                  <span class="blog-author">{post.data.author}</span>
-                  <span aria-hidden="true" class="blog-dot" />
-                  <span class="blog-date">{formatDate(post.data.date)}</span>
                 </div>
-                <h2 class="blog-h1">{post.data.title}</h2>
+                <h2 class="blog-h1 uppercase">{post.data.band}</h2>
+                <p class="blog-h1">{post.data.genre}</p>
                 <a href={post.slug} class="blog-link">
-                  Read
+                  View Info
                 </a>
               </div>
             </article>
