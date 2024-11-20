@@ -26,55 +26,43 @@ discography: >-
   **Bloodlet - Demo - 2010**  
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/bloodlet.jpg" alt="The Beckoning Bloodlet - Demo cover" style="width:300px; height:auto;">
-
-
 
 
   **Demystifying the Oracle - Full-length - 2011**  
 
 
-
-  <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="The Beckoning cover" style="width:300px; height:auto;">
-
-
+  <img src="https://ik.imagekit.io/boxhuwbys/desolate.jpg" alt="The Beckoning Demystifying the Oracle - Full-length  cover" style="width:300px; height:auto;">
 
 
   **War - EP - 2012**  
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/desolate.jpg" alt="The Beckoning Demystifying the Oracle - Full-length  cover" style="width:300px; height:auto;">
+
+
+
+
   **Desolate - EP - 2014**  
 
 
-
-  <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="The Beckoning cover" style="width:300px; height:auto;">
-
-
+  <img src="https://ik.imagekit.io/boxhuwbys/desolate.jpg" alt="The Beckoning Desolate - EP  cover" style="width:300px; height:auto;">
 
 
   **The Desolation of War - EP - 2017**  
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="The Beckoning cover" style="width:300px; height:auto;">
-
-
 
 
   **Symphony of the Apocalypse - Single - 2018**  
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="The Beckoning cover" style="width:300px; height:auto;">
 
 
-
-
   **Sanctuary - EP - 2021**  
-
-
-
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="As They Sleep - EP cover" style="width:300px; height:auto;">
