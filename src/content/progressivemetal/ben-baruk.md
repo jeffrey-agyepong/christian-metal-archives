@@ -29,13 +29,7 @@ bandMembers: |-
 
   **Former Member(s):**
 
-  Anna Moura - Vocals 
-
-  	
-
-
-
-  \
+  Anna Moura - Vocals
 discography: >-
   **Vidas Que Choram - EP - 2018**
 
