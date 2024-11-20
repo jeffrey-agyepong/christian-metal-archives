@@ -52,6 +52,10 @@ discography: >-
   **Dynasty - Full-length - 2010**
 
 
+  <br> <br>
 
   <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-dynasty.jpg" alt="As They Sleep - Dynasty - Full-length cover" style="width:300px; height:auto;">
+
+
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/54YOrFhe6VaS70j1PnVPfO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
