@@ -135,5 +135,8 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-process-of-progression.jpg" alt="Bloodline Severed - Process of Progression album cover" style="width:300px; height:auto;">
 
 
-  **<iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=2692051826/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://bloodlinesevered.bandcamp.com/album/process-of-progression">Process of Progression by Bloodline Severed</a></iframe>**
+  <br>
+
+
+  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=2692051826/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://bloodlinesevered.bandcamp.com/album/process-of-progression">Process of Progression by Bloodline Severed</a></iframe>
 ---
