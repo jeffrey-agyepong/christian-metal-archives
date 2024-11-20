@@ -73,8 +73,8 @@ collections:
         - { label: "Band Members", name: "bandMembers", widget: "markdown" }    
         - { label: "Discography", name: "discography", widget: "markdown" } 
 
-  - name: "gothicMetal" # Used in routes, e.g., /admin/collections/blog
-    label: "gothicMetal" # Used in the UI
+  - name: "gothic-metal" # Used in routes, e.g., /admin/collections/blog
+    label: "gothic-metal" # Used in the UI
     folder: "src/content/gothic" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
