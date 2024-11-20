@@ -118,8 +118,19 @@ discography: >-
   **Man of Sorrows - Single - 2014**  
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-man-of-sorrows.jpg" alt="Bloodline Severed - Man of Sorrows single cover" style="width:300px; height:auto;">
+
+
   **Fire - Single - 2016**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-fire.jpg" alt="Bloodline Severed - Fire single cover" style="width:300px; height:auto;">
+
+
+
+
   **Process of Progression - Full-length - 2017**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-process-of-progression.jpg" alt="Bloodline Severed - Process of Progression album cover" style="width:300px; height:auto;">
 ---
