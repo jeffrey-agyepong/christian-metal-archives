@@ -13,7 +13,7 @@ currentLabel: Luxor Records
 image: https://ik.imagekit.io/boxhuwbys/as-they-sleep-band.webp
 imageAlt: As They Sleep
 tags:
-  - deathMetal
+  - death-metal
 bandMembers: |-
   **Latest Lineup:**
 

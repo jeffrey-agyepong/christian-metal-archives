@@ -6,7 +6,7 @@ import { marked } from "marked";
 import "@styles/blog.less";
 
 export async function getStaticPaths() {
-  const posts = await getCollection("deathMetal");
+  const posts = await getCollection("death-metal");
   return posts.map((entry) => ({
     params: { post: entry.slug },
     props: { post: entry },

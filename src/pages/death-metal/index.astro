@@ -8,7 +8,7 @@ import { formatDate } from "@libs/utils.js";
 import Landing from "@components/Landing.astro";
 import "@styles/blog.less";
 
-const posts = await getCollection("deathMetal");
+const posts = await getCollection("death-metal");
 posts.sort
   ((a,b) => a.data.band.localeCompare(b.data.band));
 ---

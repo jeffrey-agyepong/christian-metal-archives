@@ -13,7 +13,7 @@ currentLabel: Rottweiler Records
 image: https://ik.imagekit.io/boxhuwbys/blood-thirsty.jpg
 imageAlt: Derek Corzine
 tags:
-  - deathmetal
+  - death-metal
 bandMembers: >-
   **Latest Lineup:**
 
