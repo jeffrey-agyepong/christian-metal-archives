@@ -32,14 +32,14 @@ discography: >-
   **Demystifying the Oracle - Full-length - 2011**  
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/desolate.jpg" alt="The Beckoning Demystifying the Oracle - Full-length  cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/Demystifying-the-Oracle.jpg" alt="The Beckoning Demystifying the Oracle - Full-length  cover" style="width:300px; height:auto;">
 
 
   **War - EP - 2012**  
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/desolate.jpg" alt="The Beckoning Demystifying the Oracle - Full-length  cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/war.jpg" alt="The Beckoning War  cover" style="width:300px; height:auto;">
 
 
 
@@ -53,19 +53,19 @@ discography: >-
   **The Desolation of War - EP - 2017**  
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="The Beckoning cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/the-beckoning-the-desolation-of-war-ep.webp" alt="The Beckoning The Desolation of War - EP cover" style="width:300px; height:auto;">
 
 
   **Symphony of the Apocalypse - Single - 2018**  
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="The Beckoning cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/the-beckoning-symphony-of-apocalypse.webp" alt="The Beckoning Symphony of the Apocalypse - Single cover" style="width:300px; height:auto;">
 
 
   **Sanctuary - EP - 2021**  
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="As They Sleep - EP cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="The Beckoning - Sanctuary - EP cover" style="width:300px; height:auto;">
 
   <br> <br>
 
