@@ -8,7 +8,9 @@ import { Image } from "astro:assets";
 const collections = await Promise.all([
   getCollection("deathcore"),
   getCollection("metalcore"),
-  getCollection("deathMetal")
+  getCollection("deathMetal"),
+  getCollection("gothic"),
+  getCollection("progressivemetal")
 ]);
 
 // Combine all posts into a single array
@@ -43,7 +45,7 @@ console.log(uniquePosts);
         <ButtonAlt title="Symphonic Metal" link="/symphonic-metal"/>
         <ButtonAlt title="Progressive Metal" link="/progressive-metal"/>
         <ButtonAlt title="Thrash Metal" link="/thrash-metal"/>
-        <ButtonAlt title="Gothic Metal" link="/gothic-metal"/>
+        <ButtonAlt title="Gothic Metal" link="/gothic"/>
         <ButtonAlt title="Power Metal" link="/power-metal"/>
         <ButtonAlt title="Folk Metal" link="/folk-metal"/>
          <!-- ------ Core  --------  -->
