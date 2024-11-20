@@ -74,18 +74,39 @@ bandMembers: >-
 
 
   Derek Corzine - Guitars (lead), Vocals (backing), Bass \[Blood Thirsty, Burial Extraction, Crowned in Sorrow, Syringe, Testimony of Apocalypse, ex-Whisper from Heaven, ex-Cosÿns, Derek Corzine, ex-Aletheian (live), ex-Quester, ex-Solarian]
-discography: |-
-  Fear of Reality - EP - 2006  
+discography: >-
+  **Fear of Reality - EP - 2006**  
 
-  Visions Revealed - Full-length - 2008  
 
-  Visions Revealed - Full-length - 2009  
+  <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-fear-of-reality.jpg" alt="Bloodline Severed - Fear of Reality EP cover" style="width:300px; height:auto;">
 
-  Countdown to Desecration - Single - 2011  
 
-  Letters to Decapolis - Full-length - 2012  
 
-  Man of Sorrows - Single - 2014  
 
-  Process of Progression - Full-length - 2017
+  **Visions Revealed - Full-length - 2008**  
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-visions-revealed.jpg" alt="Bloodline Severed - Visions Revealed album cover" style="width:300px; height:auto;">
+
+
+
+
+  **Visions Revealed - Full-length - 2009**  
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-visions-revealed-2.jpg" alt="Bloodline Severed - Visions Revealed alternate album cover" style="width:300px; height:auto;">
+
+
+
+
+  **Countdown to Desecration - Single - 2011**  
+
+
+  **Letters to Decapolis - Full-length - 2012**  
+
+
+  **Man of Sorrows - Single - 2014**  
+
+
+  **Process of Progression - Full-length - 2017**
 ---
