@@ -13,7 +13,7 @@ currentLabel: Independent
 image: https://ik.imagekit.io/boxhuwbys/elephant-watchtower-photo.jpg
 imageAlt: Elephant Watchtower - Peter Watson
 tags:
-  - deathMetal
+  - death-metal
 bandMembers: |-
   **Latest Lineup:**
 

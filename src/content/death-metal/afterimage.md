@@ -13,7 +13,7 @@ currentLabel: Independent
 image: https://ik.imagekit.io/boxhuwbys/afterimage.webp
 imageAlt: "Afterimage "
 tags:
-  - deathmetal
+  - death-metal
   - deathcore
 bandMembers: >-
   **Latest Lineup:**

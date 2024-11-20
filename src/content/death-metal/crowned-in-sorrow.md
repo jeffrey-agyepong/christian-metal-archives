@@ -13,7 +13,7 @@ currentLabel: Independent
 image: https://ik.imagekit.io/boxhuwbys/derek-corzine.webp
 imageAlt: Crowned in Sorrow - Derek Corzine
 tags:
-  - deathMetal
+  - death-metal
 bandMembers: |-
   **Latest Lineup:**
 

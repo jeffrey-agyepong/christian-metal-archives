@@ -13,7 +13,7 @@ currentLabel: Solid State Records
 image: https://ik.imagekit.io/boxhuwbys/Becoming-The-Archetype-band-2022.webp
 imageAlt: Becoming the Archetype
 tags:
-  - deathmetal
+  - death-metal
   - deathcore
 bandMembers: >-
   **Latest Lineup:**

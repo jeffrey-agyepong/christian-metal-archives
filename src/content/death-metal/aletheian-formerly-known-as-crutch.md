@@ -13,7 +13,7 @@ currentLabel: Ironclad Recordings
 image: https://ik.imagekit.io/boxhuwbys/aletheian-band.webp
 imageAlt: Aletheian [Formerly known as Crutch]
 tags:
-  - deathmetal
+  - death-metal
 bandMembers: >-
   **Latest Lineup:**
 

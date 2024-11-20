@@ -13,7 +13,7 @@ currentLabel: The Charon Collective
 image: https://ik.imagekit.io/boxhuwbys/the-beckoning.jpg
 imageAlt: The Beckoning
 tags:
-  - deathmetal
+  - death-metal
 bandMembers: |-
   **Latest Lineup:**
 

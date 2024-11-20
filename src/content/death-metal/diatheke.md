@@ -13,7 +13,7 @@ currentLabel: Rottweiler Records
 image: https://ik.imagekit.io/boxhuwbys/diatheke_photo.jpg
 imageAlt: Diatheke
 tags:
-  - deathMetal
+  - death-metal
 bandMembers: |-
   Michael Osborn - Drums, Vocals \[Crucify the Flesh, ex.Citadel]
 

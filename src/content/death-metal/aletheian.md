@@ -13,7 +13,7 @@ currentLabel: Independent
 image: https://ik.imagekit.io/boxhuwbys/arthure.webp
 imageAlt: Arthure (Nathan Arthur)
 tags:
-  - deathmetal
+  - death-metal
 bandMembers: |-
   **Latest Lineup:**
 
