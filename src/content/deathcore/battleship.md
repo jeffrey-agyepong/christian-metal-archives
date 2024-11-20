@@ -6,7 +6,7 @@ date: 2024-11-19T17:36:00.000Z
 country: Canada
 location: Edmonton, Alberta
 formed: "2009"
-status: Disbanded
+status: Unknown
 genre: Deathcore
 themes: Christianity
 currentLabel: Independent
