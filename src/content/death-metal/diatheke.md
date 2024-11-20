@@ -82,4 +82,10 @@ discography: >-
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/diatheke-embraced.jpg" alt="Diatheke - Embraced - Single cover" style="width:300px; height:auto;">
+
+
+  <br> 
+
+
+  <iframe style="border: 0; width: 300px; height: 538px;" src="https://bandcamp.com/EmbeddedPlayer/album=3392747289/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://diatheketcc.bandcamp.com/album/self-titled">Self-Titled by Diatheke</a></iframe>
 ---
