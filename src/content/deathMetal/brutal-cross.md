@@ -13,7 +13,7 @@ currentLabel: Vision of God Records
 image: https://ik.imagekit.io/boxhuwbys/Brutal-Cross-Photo.jpeg
 imageAlt: Brutal Cross
 tags:
-  - deathMetal
+  - deathmetal
 bandMembers: |-
   **Latest Lineup:**
 

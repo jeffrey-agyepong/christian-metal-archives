@@ -13,7 +13,7 @@ currentLabel: Independent
 image: https://ik.imagekit.io/boxhuwbys/ascendant_band.webp?updatedAt=1729052254063
 imageAlt: Ascendant
 tags:
-  - deathMetal
+  - deathmetal
 bandMembers: |-
   **Latest Lineup:**
 

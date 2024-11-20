@@ -13,7 +13,7 @@ currentLabel: Basick Records, Century Media Records
 image: https://ik.imagekit.io/boxhuwbys/7_Horns_7_Eyes.webp
 imageAlt: 7 Horns & Eyes
 tags:
-  - deathMetal
+  - deathmetal
 bandMembers: >-
   **Latest Lineup:**
 

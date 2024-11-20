@@ -13,7 +13,7 @@ currentLabel: Independent
 image: https://ik.imagekit.io/boxhuwbys/astillian.webp
 imageAlt: Âstillian
 tags:
-  - deathMetal
+  - deathmetal
 bandMembers: >-
   **Latest Lineup:**
 
