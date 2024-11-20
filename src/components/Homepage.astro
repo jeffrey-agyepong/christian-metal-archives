@@ -5,19 +5,23 @@ import { getCollection } from "astro:content";
 import "@styles/blog.less";
 import { Image } from "astro:assets";
 
-const collections = await Promise.all([
-  getCollection("deathcore"),
-  getCollection("metalcore"),
-  getCollection("deathMetal"),
-  getCollection("gothic"),
-  getCollection("progressivemetal")
-]);
+const genres = [
+  "deathcore",
+  "metalcore",
+  "deathMetal",
+  "gothic",
+  "progressivemetal",
+];
+
+const collections = await Promise.all(
+ genres.map((genre) => getCollection(genre))
+);
 
 // Combine all posts into a single array
 const posts = collections.flatMap((collection, index) =>
 collection.map((post) =>({
   ...post,
-  data:{ ...post.data, genre: index === 0 ? "deathcore" : index === 1 ? "metalcore" : "death-metal"}
+  data:{ ...post.data, genre: genres[index]}
 })));
 
 // Sort the combined posts by band name
