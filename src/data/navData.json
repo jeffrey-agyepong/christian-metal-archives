@@ -53,13 +53,14 @@
   },
   {
     "key": "Samplers",
-    "url": "/samplers/",
-    "children": []
+    "url": "/samplers/"
+  },{
+    "key": "Support",
+    "url": "/support/"
   },
   {
     "key": "Contact Us",
-    "url": "/contact/",
-    "children": []
+    "url": "/contact/"
   }
 
 
