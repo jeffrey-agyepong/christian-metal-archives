@@ -95,9 +95,9 @@ collections:
         - { label: "Band Members", name: "bandMembers", widget: "markdown" }    
         - { label: "Discography", name: "discography", widget: "markdown" } 
 
-  - name: "progressiveMetal" # Used in routes, e.g., /admin/collections/blog
-    label: "progressiveMetal" # Used in the UI
-    folder: "src/content/progressivemetal" # The path to the folder where the documents are stored
+  - name: "progressive-metal" # Used in routes, e.g., /admin/collections/blog
+    label: "progressive-metal" # Used in the UI
+    folder: "src/content/progressive-metal" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in frontmatter
         - { label: "Title", name: "title", widget: "string" }

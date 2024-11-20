@@ -13,7 +13,7 @@ currentLabel: Vision of God Records
 image: https://ik.imagekit.io/boxhuwbys/ben-baruk.webp
 imageAlt: Ben Baruk
 tags:
-  - progressiveMetal
+  - progressive-metal
 bandMembers: |-
   **Latest Lineup:**
 

@@ -6,7 +6,7 @@ import { marked } from "marked";
 import "@styles/blog.less";
 
 export async function getStaticPaths() {
-  const posts = await getCollection("progessivemetal");
+  const posts = await getCollection("progressive-metal");
   return posts.map((entry) => ({
     params: { post: entry.slug },
     props: { post: entry },
