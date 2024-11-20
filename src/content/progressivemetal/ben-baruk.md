@@ -62,4 +62,13 @@ discography: >-
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/ben-baruk-cosmogony.jpg" alt="Ben Baruk - Cosmogony - Full-length cover" style="width:300px; height:auto;">
+
+  <br>
+
+  <br>
+
+
+
+
+  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=2991050590/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://visionofgodrecords.bandcamp.com/album/what-love-is-that-metal-symphonic-metal-djent">What Love Is That? (Metal/Symphonic Metal/Djent) by Ben Baruk</a></iframe>
 ---
