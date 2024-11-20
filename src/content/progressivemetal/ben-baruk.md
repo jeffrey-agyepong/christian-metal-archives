@@ -36,12 +36,36 @@ bandMembers: |-
 
 
   \
-discography: |-
-  **Vidas Que Choram - EP - 2018**  
+discography: >-
+  **Vidas Que Choram - EP - 2018**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
+
+    
 
   **What Love Is That? - Full-length - 2020**  
 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/what-love-is-that.jpg" alt="Ben Baruk - What Love is that? Full-length cover" style="width:300px; height:auto;">
+
+
+
+
   **Oh the Deep Deep Love of Jesus - Single - 2021**  
 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/oh-the-deep-love-of-Jesus.jpg" alt="Ben Baruk - Oh the Deep Deep Love of Jesus - EP cover" style="width:300px; height:auto;">
+
+
+
+
   **Cosmogony - Full-length - 2024**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/ben-baruk-cosmogony.jpg" alt="Ben Baruk - Cosmogony - Full-length cover" style="width:300px; height:auto;">
 ---
