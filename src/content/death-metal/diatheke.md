@@ -22,18 +22,64 @@ bandMembers: |-
   John Wesley - Guitars, Bass \[Dr. Brutacalypse, ex.Citadel]
 
   Peter Watson - Vocals \[Elephant Watchtower]
-discography: |-
+discography: >-
   **Bereavement - Single - 2018**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/diatheke-bereavement.jpg" alt="Diatheke - Bereavement - Single cover" style="width:300px; height:auto;">
+
+
+
 
   **Magnify - Single - 2020**
 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/diatheke-magnify.jpg" alt="Diatheke - Magnify - Single cover" style="width:300px; height:auto;">
+
+
+
+
   **Day and Night (Magnify Reprise) - Single - 2020**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/diatheke-day-and-night.jpg" alt="Diatheke - Day and Night (Magnify Reprise) - Single cover" style="width:300px; height:auto;">
+
+
+
 
   **Splendour - EP - 2021**
 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
+
+
+
+
   **Diatheke - Full-length - 2021**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
+
+
+
 
   **The Instrumentals Collection - EP - 2022**
 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
+
+
+
+
   **Embraced - Single - 2022**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
 ---
