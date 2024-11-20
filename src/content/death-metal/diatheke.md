@@ -54,7 +54,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/diatheke-splendour.jpeg" alt="Diatheke - Splendour - EP cover" style="width:300px; height:auto;">
 
 
 
@@ -63,7 +63,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/diatheke-diatheke.jpg" alt="Diatheke - Full-length cover" style="width:300px; height:auto;">
 
 
 
@@ -72,7 +72,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/diatheke-the-instrumentals-collection.jpg" alt="Diatheke -The Instrumentals Collection - EP cover" style="width:300px; height:auto;">
 
 
 
@@ -81,5 +81,5 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Ben Baruk - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/diatheke-embraced.jpg" alt="Diatheke - Embraced - Single cover" style="width:300px; height:auto;">
 ---
