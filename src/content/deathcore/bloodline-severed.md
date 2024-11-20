@@ -102,10 +102,23 @@ discography: >-
   **Countdown to Desecration - Single - 2011**  
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-countdown-to-desecration.jpg" alt="Bloodline Severed - Countdown to Desecration single cover" style="width:300px; height:auto;">
+
+
+
+
   **Letters to Decapolis - Full-length - 2012**  
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-letters-to-decapolis.jpg" alt="Bloodline Severed - Letters to Decapolis album cover" style="width:300px; height:auto;">
+
+
+
+
   **Man of Sorrows - Single - 2014**  
+
+
+  **Fire - Single - 2016**
 
 
   **Process of Progression - Full-length - 2017**
