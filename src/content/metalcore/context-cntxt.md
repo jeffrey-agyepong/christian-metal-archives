@@ -14,12 +14,22 @@ image: https://ik.imagekit.io/boxhuwbys/context-band.webp
 imageAlt: Context Christian Metalcore Band
 tags:
   - metalcore
-bandMembers: |-
+bandMembers: >-
+  
+  **Bio:**
+
+
+  **Context** is a Christian Metal Band from Morgantown, WV. Their goal is to share the Gospel of Jesus Christ through their passion of music. Context was founded in 2014 under the name Gatsby by former members of I Killed Medusa. The band recorded their demo "As Bold As Lions", a two song EP shortly after formation. Gatsby went on a hiatus due to numerous lineup changes until 2017 when founding members, James "Jam" Watkins, and Kodey "Chow" Watkins met Kyle Powers at their local church. 
+
+
   **Latest Lineup:**
+
 
   James 'Jam' Watkins - Vocals
 
+
   Kodey 'Chow' Watkins - Guitar/Drums
+
 
   Kyle Powers - Guitar/Bass
 discography: >-
@@ -57,6 +67,11 @@ discography: >-
   **God Rest Ye Little Gentlemen - Single - 2020**
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
+
+
+
   **The Divide - Single - 2021**
 
 
@@ -64,4 +79,16 @@ discography: >-
 
 
   **Kingdoms - Album - 2021**
+
+
+  **As Bold As Lions - EP - 2022**
+
+
+  **Pressure - EP - 2023**
+
+
+  **Indwelling - EP - 2023**
+
+
+  **Tides - EP - 2024**
 ---
