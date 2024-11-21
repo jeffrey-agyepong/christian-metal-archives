@@ -21,31 +21,43 @@ bandMembers: |-
 
   Kodey 'Chow' Watkins - Guitar/Drums
 
-  Kyle Powers - Guitar/Bass 
+  Kyle Powers - Guitar/Bass
+discography: >-
+  **Castaway - Single - 2018**
+
+
+  **Heart Journal - EP - 2018**
 
 
 
-  	
+  <img src="https://ik.imagekit.io/boxhuwbys/context-heart-journal.webp" alt="Context - Heart Journal - EP - 2018 cover" style="width:300px; height:auto;">
 
 
 
-  \
-discography: |-
-  Castaway - Single - 2018
 
-  Heart Journal - EP - 2018
+  **Heart Journal - Deluxe Edition - EP - 2020**
 
-  Heart Journal - Deluxe Edition - EP - 2020
 
-  Stricken Smitten & Afflicted - Single - 2020
 
-  Mammoth - Single - 2020
+  <img src="https://ik.imagekit.io/boxhuwbys/context-heart-journal-ep.webp" alt="Context - Heart Journal - Deluxe Edition - EP - 2018 cover" style="width:300px; height:auto;">
 
-  God Rest Ye Little Gentlemen - Single - 2020
 
-  The Divide - Single - 2021
 
-  Kingdoms - Single - 2021
 
-  Kingdoms - Album - 2021
+  **Stricken Smitten & Afflicted - Single - 2020**
+
+
+  **Mammoth - Single - 2020**
+
+
+  **God Rest Ye Little Gentlemen - Single - 2020**
+
+
+  **The Divide - Single - 2021**
+
+
+  **Kingdoms - Single - 2021**
+
+
+  **Kingdoms - Album - 2021**
 ---
