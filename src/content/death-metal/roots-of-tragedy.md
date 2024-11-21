@@ -23,19 +23,19 @@ discography: >-
   **Awakening Beyond – Demo – 2006**
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/arthure-piety.jpg" alt="Arthure Piety Single cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-awakening-beyond-demo.jpg?updatedAt=1732230999128" alt="Roots of Tragedy - Awakening Beyond - Demo  cover" style="width:300px; height:auto;">
 
 
   **Awakening Beyond – EP – 2008**
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/arthure-dichotomy.jpg" alt="Arthure Dichotomy album cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-awakening-beyond-ep.jpg?updatedAt=1732230999160" alt="Roots of Tragedy- Awakening Beyond – EPalbum cover" style="width:300px; height:auto;">
 
 
   **Demo – Demo – 2010**
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/arthure-grasp.jpg?updatedAt=1731965645470" alt="Arthure Grasp Single cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-demo.jpg?updatedAt=1732230998981" alt="Roots of Tragedy - Demo - cover" style="width:300px; height:auto;">
 
 
   **Day – Single – 2018**
