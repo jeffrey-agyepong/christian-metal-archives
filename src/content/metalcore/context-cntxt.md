@@ -75,20 +75,43 @@ discography: >-
   **The Divide - Single - 2021**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/context-the-divide.jpg" alt="Context - The Divide - Single - 2021 cover" style="width:300px; height:auto;">
+
+
   **Kingdoms - Single - 2021**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/context-kingdoms.jpg" alt="Context - Kingdoms - Single - 2021 cover" style="width:300px; height:auto;">
 
 
   **Kingdoms - Album - 2021**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/context-kingdoms.jpg" alt="Context - Kingdoms - Album - 2021 cover" style="width:300px; height:auto;">
+
+
   **As Bold As Lions - EP - 2022**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
+
 
 
   **Pressure - EP - 2023**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
+
+
+
   **Indwelling - EP - 2023**
 
 
-  **Tides - EP - 2024**
+  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
+
+
+  **Tides - EP - 2024** 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
 ---
