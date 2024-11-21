@@ -39,7 +39,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/context-heart-journal-ep.webp" alt="Context - Heart Journal - Deluxe Edition - EP - 2018 cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/context-heart-journal-ep.webp" alt="Context - Heart Journal - Deluxe Edition - EP - 2020 cover" style="width:300px; height:auto;">
 
 
 
