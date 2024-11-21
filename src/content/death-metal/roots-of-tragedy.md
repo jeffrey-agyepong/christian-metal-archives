@@ -7,7 +7,7 @@ country: Norway
 location: Sortland, Nordland
 formed: N/A
 status: Active
-genre: Progressive Death Metal
+genre: Progressive Death Metal/Symphonic Black Metal
 themes: Christianity
 currentLabel: Vision of God Records
 image: https://ik.imagekit.io/boxhuwbys/roots-of-tragedy.webp
