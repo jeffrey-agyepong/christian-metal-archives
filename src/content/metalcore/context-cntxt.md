@@ -90,6 +90,19 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/context-kingdoms.jpg" alt="Context - Kingdoms - Album - 2021 cover" style="width:300px; height:auto;">
 
 
+
+
+
+  **Immanuel - Single - 2022**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/context-immanuel-single.jpg" alt="Context - Immanuel - Single - 2022 cover" style="width:300px; height:auto;">
+
+
+
+
+
+
   **As Bold As Lions - EP - 2022**
 
 
