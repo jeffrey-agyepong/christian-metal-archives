@@ -108,18 +108,22 @@ discography: >-
   **Pressure - Single - 2023**
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/context-indwelling.jpg?updatedAt=1732167772353" alt="Context - Pressure - Single - cover" style="width:300px; height:auto;">
 
 
 
   **Indwelling - EP - 2023**
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/context-indwelling.jpg?updatedAt=1732167772353" alt="Context - Indwelling - EP cover" style="width:300px; height:auto;">
 
 
   **Tides - EP - 2024** 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/context-tides.jpg" alt="Context - Tides -EP - cover" style="width:300px; height:auto;">
+
+  <br><br>
+
+  <iframe style="border: 0; width: 300px; height: 538px;" src="https://bandcamp.com/EmbeddedPlayer/album=3166192927/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://cntxt.bandcamp.com/album/indwelling">Indwelling by Context</a></iframe>
 ---
