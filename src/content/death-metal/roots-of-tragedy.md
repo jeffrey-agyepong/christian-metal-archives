@@ -54,7 +54,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-your-kingdom-come.jpg?updatedAt=1732230998852" alt="Roots of Tragedy - Day - cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-your-kingdom-come.jpg?updatedAt=1732230998852" alt="Roots of Tragedy - Your Kingdom Come – Single- cover" style="width:300px; height:auto;">
 
 
 
@@ -63,7 +63,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-last-adam.jpg?updatedAt=1732230999926" alt="Roots of Tragedy - Day - cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-last-adam.jpg?updatedAt=1732230999926" alt="Roots of Tragedy - Last Adam – Single - cover" style="width:300px; height:auto;">
 
 
 
@@ -72,7 +72,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-doctrines.jpg?updatedAt=1732230999725" alt="Roots of Tragedy - Day - cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-doctrines.jpg?updatedAt=1732230999725" alt="Roots of Tragedy - Doctrines - cover" style="width:300px; height:auto;">
 
 
 
@@ -81,7 +81,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-momento-mori.jpg" alt="Roots of Tragedy - Day - cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-momento-mori.jpg" alt="Roots of Tragedy - Memento Mori – Single - cover" style="width:300px; height:auto;">
 
 
 
@@ -90,7 +90,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-phantom-of-the%20opera.png" alt="Roots of Tragedy - Day - cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-phantom-of-the%20opera.png" alt="Roots of Tragedy - Phantom of the Opera – Single - cover" style="width:300px; height:auto;">
 
 
 
