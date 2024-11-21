@@ -3,8 +3,8 @@ title: Sorrowstorm
 band: Sorrowstorm
 author: Jeffrey A.
 date: 2024-11-21T15:14:00.000Z
-country: Poland
-location: Ireland
+country: Panama
+location: Philadelphia, Pennsylvania, United States
 formed: "2000"
 status: Active
 genre: Progressive Black Metal
