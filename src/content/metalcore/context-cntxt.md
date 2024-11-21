@@ -34,7 +34,6 @@ discography: >-
 
 
 
-
   **Heart Journal - Deluxe Edition - EP - 2020**
 
 
@@ -42,12 +41,17 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/context-heart-journal-ep.webp" alt="Context - Heart Journal - Deluxe Edition - EP - 2020 cover" style="width:300px; height:auto;">
 
 
-
-
   **Stricken Smitten & Afflicted - Single - 2020**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/context-stricken-smitten-afflicted.jpg" alt="Context - Stricken Smitten & Afflicted - Single - 2020 cover" style="width:300px; height:auto;">
+
+
   **Mammoth - Single - 2020**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/context-mammoth.jpg" alt="Context - Mammoth - Single - 2020 cover" style="width:300px; height:auto;">
+
 
 
   **God Rest Ye Little Gentlemen - Single - 2020**
