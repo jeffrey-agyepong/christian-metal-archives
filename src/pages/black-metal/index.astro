@@ -1,0 +1,84 @@
+---
+import BaseLayout from "src/layouts/BaseLayout.astro";
+import CTA from "@components/CTA.astro";
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+
+import { formatDate } from "@libs/utils.js";
+import Landing from "@components/Landing.astro";
+import "@styles/blog.less";
+
+const posts = await getCollection("black-metal");
+posts.sort
+  ((a,b) => a.data.band.localeCompare(b.data.band));
+---
+
+<BaseLayout
+  title="Black Metal"
+  description="Discover Black Metal band profiles featuring detailed histories, lineups, and discographies."
+  preloadImg=""
+>
+  <!-- ============================================ -->
+  <!--                    LANDING                   -->
+  <!-- ============================================ -->
+
+  <Landing 
+    title="Black Metal"
+  />
+
+  <!-- ============================================ -->
+  <!--              Main Blog Content               -->
+  <!-- ============================================ -->
+
+  <div class="blog-container main-content-wrapper">
+    <!--Main content -->
+    <div class="main-content">
+      <!-- ============================================ -->
+      <!--                 Blog Articles                -->
+      <!-- ============================================ -->
+       <div class="flex flex-row flex-wrap gap-2 m-4">
+
+      
+      {posts.length === 0 && <h1>No Recent Posts</h1>}
+      {
+        posts.length >= 1 &&
+          posts.map((post) => (
+           <div class="sm:max-w-xs lg:max-w-md m-4 mx-auto">
+             <article class="recent-articles flex-1">
+              <picture class="blog-mainImage">
+                <Image
+                  src={post.data.image}
+                  alt={post.data.imageAlt}
+                  width="795"
+                  height="400"
+                  decoding="async"
+                  
+                />
+              </picture>
+
+              <div class="article-group interview">
+                <div class="blog-authorGroup">
+                  {/* <picture class="blog-author-img">
+                    <img
+                      src="/assets/svgs/profile.svg"
+                      alt="house"
+                      width="32"
+                      height="32"
+                      decoding="async"
+                    />
+                  </picture> */}
+                </div>
+                <h2 class="blog-h1 uppercase">{post.data.band}</h2>
+                <p class="blog-h1">{post.data.genre}</p>
+                <a href={post.slug} class="blog-link">
+                  View Info
+                </a>
+              </div>
+            </article>
+           </div>
+          ))
+      }
+       </div>
+    </div>
+  </div>
+</BaseLayout>
