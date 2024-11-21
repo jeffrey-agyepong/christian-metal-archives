@@ -105,7 +105,7 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/context-as-bold-as-lions.jpg" alt="Context - As Bold As Lions - EP cover" style="width:300px; height:auto;">
 
 
-  **Pressure - EP - 2023**
+  **Pressure - Single - 2023**
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
