@@ -32,8 +32,25 @@ bandMembers: >-
 
 
   David Bunton – Vocals \[The Showdown, ex-2540]
-discography: |-
+discography: >-
   **Demo - Demo - 2016**
 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/hope-deferred-demo.jpg" alt="Hope Deferred - Demo - cover" style="width:300px; height:auto;">
+
+
+
+
   **Breathing Murder - Single - 2021**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/hope-deferred-breathing-murder.webp" alt="Hope Deferred - Breathing Murder - Single cover" style="width:300px; height:auto;">
+
+
+  <br>
+
+
+  <iframe style="border: 0; width: 300px; height: 392px;" src="https://bandcamp.com/EmbeddedPlayer/track=2228702662/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="https://hopedeferred.bandcamp.com/track/breathing-murder">Breathing Murder by Hope Deferred</a></iframe>
 ---
