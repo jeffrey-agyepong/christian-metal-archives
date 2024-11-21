@@ -7,6 +7,42 @@ const currentYear = getCurrentYear()
 
 <!-- ============================================ --><!--                   Footer                     --><!-- ============================================ -->
 <footer id="footer">
+  <div class="container">
+    <div class="left-section">
+      <a class="logo logo-font text-3xl" href="/">Christian Metal Archives</a>
+    </div>
+    <div class="right-section">
+      <div class="lists">
+        <ul>
+          <li>
+            <h2 class="">Quick Links</h2>
+          </li>
+          <li>
+            <a href="/interviews">Interviews</a>
+          </li>
+          <li>
+            <a href="/music-reviews">Music Reviews</a>
+          </li>
+          <li>
+            <a href="/samplers">Samplers</a>
+          </li>
+          <li>
+            <a href="/support">Support</a>
+          </li>
+         
+        </ul>
+        <ul>
+          <li>
+            <h2>Contact</h2>
+          </li>
+          <li>
+            <a href={`mailto:${client.email}`}>admin@beyondthegravemag.com</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
   <div class="sm:flex">
     <div class="credit">
       <a href="/sitemap.xml" target="_blank" rel="noopener">Sitemap</a> 
@@ -15,8 +51,7 @@ const currentYear = getCurrentYear()
       <span class="copyright">© {currentYear} Christian Metal Archives</span>
     </div>
     <div class="credit">
-      <span>Developed by</span>
-      <a href="/" target="_blank" rel="noopener">J.A Web Design</a> 
+      Developed by<a href="https://jawebdesign.ca/" target="_blank">J.A Web Design</a>
     </div>
   </div>
 </footer>
@@ -51,7 +86,7 @@ const currentYear = getCurrentYear()
       p {
         font-size: (14/16rem);
         line-height: 27/14;
-        text-align: center;
+        text-align: left;
         width: 100%;
         width: 307/14rem;
         margin: auto;
@@ -105,10 +140,10 @@ const currentYear = getCurrentYear()
             }
           }
           h2 {
-            font-size: (18/16rem);
+            font-size: 1.5rem;
             font-weight: bold;
             line-height: 21/18em;
-            text-transform: uppercase;
+            text-transform: capitalize;
             margin-bottom: (37/16rem);
             color: #fff;
             position: relative;
