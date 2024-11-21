@@ -99,15 +99,10 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/context-immanuel-single.jpg" alt="Context - Immanuel - Single - 2022 cover" style="width:300px; height:auto;">
 
 
-
-
-
-
   **As Bold As Lions - EP - 2022**
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
-
+  <img src="https://ik.imagekit.io/boxhuwbys/context-as-bold-as-lions.jpg" alt="Context - As Bold As Lions - EP cover" style="width:300px; height:auto;">
 
 
   **Pressure - EP - 2023**
