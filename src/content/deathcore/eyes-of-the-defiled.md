@@ -6,6 +6,7 @@ date: 2024-11-21T17:44:00.000Z
 country: United States
 location: Crisfield, Maryland
 formed: "2011"
+yearsActive: 2011-2016
 status: Hiatus
 genre: Deathcore
 themes: Christianity
@@ -44,7 +45,7 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/eyes-of-the-last-words.jpg" alt="Eyes of the Defiled - Last Words - Single cover" style="width:300px; height:auto;">
 
 
-  **Distant Telling - Full-length - 2014**
+  **Distant Telling - Full-length - 2016**
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/eyes-of-the-defiled-distant-telling.jpg" alt="Eyes of the Defiled - Distant Telling - Full-length cover" style="width:300px; height:auto;">
