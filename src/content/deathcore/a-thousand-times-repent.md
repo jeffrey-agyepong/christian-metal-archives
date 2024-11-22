@@ -6,6 +6,7 @@ date: 2024-11-18T16:31:00.000Z
 country: United States
 location: "     Atlanta, Georgia"
 formed: "2004"
+yearsActive: "2004-2011, 2023-present "
 status: Active
 genre: Deathcore/Metalcore
 themes: Christianity
