@@ -55,7 +55,7 @@ bandMembers: >-
   Jon Dunn - Bass *\[Jon Dunn Band, ex-Woodswyck]*
 
 
-  **Live Members:**
+  **Past Live Members:**
 
 
   Arthur Green - Bass *\[Living Sacrifice, ex-Elliot, ex-Eso-Charis]*
