@@ -6,6 +6,7 @@ date: 2024-11-18T12:03:00.000Z
 country: United States
 location: Lebanon, Pennsylvania
 formed: "2003"
+yearsActive: 2003-2008
 status: Hiatus
 genre: Technical/Melodic Death Metal
 themes: Christianity
