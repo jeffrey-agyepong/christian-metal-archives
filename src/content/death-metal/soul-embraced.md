@@ -7,10 +7,10 @@ country: United States
 location: Little Rock, Arkansas
 formed: "1997"
 yearsActive: 1997-?
-status: Hiatus
-genre: Progressive Death Metal
-themes: Christianity
-currentLabel: Basick Records, Century Media Records
+status: Unknown
+genre: Melodic Death Metal/Deathcore
+themes: Christianity, Death, Inner struggles
+currentLabel: Rottweiler Records
 image: https://ik.imagekit.io/boxhuwbys/soul-embraced.jpg
 imageAlt: Soul Embraced
 tags:
@@ -19,16 +19,19 @@ bandMembers: >-
   **Latest Lineup:**
 
 
-  JJ Polachek IV – vocals \[Nekroi Theoi, ex-Ovid's Withering, ex-Monotheist, ex-Lorelei]
+  Rocky Gray - Guitars (lead), Vocals (backing) *\[Living Sacrifice, ex-Shredded Corpse, Even Devils Die, Machina, Rocky Gray, ex-Bleeding Through (live), ex-3 for Sorrow, ex-Chalice, ex-Cryptic Memoirs, ex-Evanescence, ex-Fatal Thirteen, ex-Kill System, ex-Mourningside, ex-PainGod, ex-Project 86, ex-Seminal Death, ex-Sickshine, ex-Solus Deus, ex-The Burning, ex-We Are the Fallen, ex-The Killer and the Star (live)]*
 
 
-  Aaron Smith – rhythm guitar, backing vocals
+  Lance Garvin - Drums *\[Living Sacrifice, ex-Throwdown (live), ex-Heroes Among Thieves, ex-Kill System, ex-The Blamed (live), ex-Zao (live)]*
 
 
-  Brandon Smith – bass guitar
+  Chad Moore - Vocals (lead) *\[ex-Kill System]*
 
 
-  Sean Alf – lead guitar
+  Jeff Bowie - Bass *\[Becoming Saints, ex-Between the Second, ex-Mourningside]*
+
+
+  Cody Smith - Guitars (rhythm) *\[Abandon the Artifice]*
 
 
   **Former Members:**
