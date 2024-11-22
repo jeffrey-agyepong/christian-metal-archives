@@ -37,28 +37,31 @@ bandMembers: >-
   **Former Members:**
 
 
-  Kyle Wood – vocals
+  David Sroczynski - Drums *\[Genocide Winter, Napalm Christ, Sun Descends Black, ex-Inner War, ex-Shredded Corpse, ex-Thy Pain, ex-Seminal Death]*
 
 
-  Ryan Wood – drums
+  Charlie West - Guitars (rhythm)
 
 
-  Steven Bye – drums
+  Jack Wiese - Guitars (rhythm) *\[Brookroyal, The Pour, ex-Machina, ex-Mourningside, ex-MT, ex-The 5th Element]*
 
 
-  Zack Uidl – lead guitar
+  Devin Castle - Guitars (rhythm), Vocals (backing) *\[ex-Mourningside, ex-Temper Effect]*
 
 
-  Chris Weiford – lead guitar
+  Ed Collins - Guitars (lead)
+
+
+  Jon Dunn - Bass *\[Jon Dunn Band, ex-Woodswyck]*
 
 
   **Live Members:**
 
 
-  Nick Pierce – drums
+  Arthur Green - Bass *\[Living Sacrifice, ex-Elliot, ex-Eso-Charis]*
 
 
-  Alex Rüdinger – drums
+  John LeCompt - Guitars *\[Eight Eyes, Even Devils Die, Machina, Melissa Martin Band, NoMara, ex-Evanescence, ex-Kill System, ex-Mindrage, ex-Mourningside, ex-We Are the Fallen]*
 discography: >-
   **7 Horns 7 Eyes - EP - 2007**
 
