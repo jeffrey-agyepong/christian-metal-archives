@@ -54,48 +54,34 @@ discography: >-
   **Your Kingdom Come – Single – 2018**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-your-kingdom-come.jpg?updatedAt=1732230998852" alt="Roots of Tragedy - Your Kingdom Come – Single- cover" style="width:300px; height:auto;">
-
-
 
 
   **Last Adam – Single – 2018**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-last-adam.jpg?updatedAt=1732230999926" alt="Roots of Tragedy - Last Adam – Single - cover" style="width:300px; height:auto;">
-
-
 
 
   **Doctrines – Full-length – 2018**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-doctrines.jpg?updatedAt=1732230999725" alt="Roots of Tragedy - Doctrines - cover" style="width:300px; height:auto;">
-
-
 
 
   **Memento Mori – Single – 2021**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-momento-mori.jpg" alt="Roots of Tragedy - Memento Mori – Single - cover" style="width:300px; height:auto;">
-
-
 
 
   **Phantom of the Opera – Single – 2022**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/roots-of-tragedy-phantom-of-the%20opera.png" alt="Roots of Tragedy - Phantom of the Opera – Single - cover" style="width:300px; height:auto;">
 
 
-
-  <br> <br>
+  <br> 
 
 
   <iframe style="border: 0; width: 300px; height: 703px;" src="https://bandcamp.com/EmbeddedPlayer/album=2758328307/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://rootsoftragedy.bandcamp.com/album/doctrines-deluxe-edition-2">Doctrines - Deluxe Edition by Roots of Tragedy</a></iframe>

@@ -82,14 +82,10 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-fear-of-reality.jpg" alt="Bloodline Severed - Fear of Reality EP cover" style="width:300px; height:auto;">
 
 
-
-
   **Visions Revealed - Full-length - 2008**  
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-visions-revealed.jpg" alt="Bloodline Severed - Visions Revealed album cover" style="width:300px; height:auto;">
-
-
 
 
   **Visions Revealed - Full-length - 2009**  
@@ -98,22 +94,16 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-visions-revealed-2.jpg" alt="Bloodline Severed - Visions Revealed alternate album cover" style="width:300px; height:auto;">
 
 
-
-
   **Countdown to Desecration - Single - 2011**  
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-countdown-to-desecration.jpg" alt="Bloodline Severed - Countdown to Desecration single cover" style="width:300px; height:auto;">
 
 
-
-
   **Letters to Decapolis - Full-length - 2012**  
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-letters-to-decapolis.jpg" alt="Bloodline Severed - Letters to Decapolis album cover" style="width:300px; height:auto;">
-
-
 
 
   **Man of Sorrows - Single - 2014**  
@@ -128,13 +118,14 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-fire.jpg" alt="Bloodline Severed - Fire single cover" style="width:300px; height:auto;">
 
 
-
-
   **Process of Progression - Full-length - 2017**
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/bloodline-severed-process-of-progression.jpg" alt="Bloodline Severed - Process of Progression album cover" style="width:300px; height:auto;">
 
 
-  **<iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=2692051826/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://bloodlinesevered.bandcamp.com/album/process-of-progression">Process of Progression by Bloodline Severed</a></iframe>**
+  <br>
+
+
+  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=2692051826/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://bloodlinesevered.bandcamp.com/album/process-of-progression">Process of Progression by Bloodline Severed</a></iframe>
 ---

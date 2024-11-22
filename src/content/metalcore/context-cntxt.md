@@ -40,13 +40,10 @@ discography: >-
   **Heart Journal - EP - 2018**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/context-heart-journal.webp" alt="Context - Heart Journal - EP - 2018 cover" style="width:300px; height:auto;">
 
 
-
   **Heart Journal - Deluxe Edition - EP - 2020**
-
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/context-heart-journal-ep.webp" alt="Context - Heart Journal - Deluxe Edition - EP - 2020 cover" style="width:300px; height:auto;">
@@ -64,13 +61,10 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/context-mammoth.jpg" alt="Context - Mammoth - Single - 2020 cover" style="width:300px; height:auto;">
 
 
-
   **God Rest Ye Little Gentlemen - Single - 2020**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/context-god-rest-ye-merry-gentlemen.webp" alt="Context - God Rest Ye Little Gentlemen - Single - 2020 cover" style="width:300px; height:auto;">
-
 
 
   **The Divide - Single - 2021**
@@ -91,9 +85,6 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/context-kingdoms.jpg" alt="Context - Kingdoms - Album - 2021 cover" style="width:300px; height:auto;">
 
 
-
-
-
   **Immanuel - Single - 2022**
 
 
@@ -112,7 +103,6 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/context-indwelling.jpg?updatedAt=1732167772353" alt="Context - Pressure - Single - cover" style="width:300px; height:auto;">
 
 
-
   **Indwelling - EP - 2023**
 
 
@@ -124,7 +114,7 @@ discography: >-
 
   <img src="https://ik.imagekit.io/boxhuwbys/context-tides.jpg" alt="Context - Tides -EP - cover" style="width:300px; height:auto;">
 
-  <br><br>
+  <br>
 
   <iframe style="border: 0; width: 300px; height: 538px;" src="https://bandcamp.com/EmbeddedPlayer/album=3166192927/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://cntxt.bandcamp.com/album/indwelling">Indwelling by Context</a></iframe>
 ---

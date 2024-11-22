@@ -2,7 +2,7 @@
 title: Soul Embraced
 band: Soul Embraced
 author: Jeffrey A
-date: 2024-11-21T23:33:00.000Z
+date: 2024-11-22T10:44:00.000Z
 country: United States
 location: Little Rock, Arkansas
 formed: "1997"
@@ -66,30 +66,46 @@ discography: >-
   **Fleshless - EP - 1999**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-fleshless.jpg" alt="Soul Embraced - Fleshless -EP cover" style="width:300px; height:auto;">
-
 
 
   **For the Incomplete - Full-length - 2001**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-for-the-incomplete.jpg" alt="Soul Embraced - For the Incomplete - Full-length cover" style="width:300px; height:auto;">
+
+
   **This Is My Blood - Full-length - 2002**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-this-is-my-blood.jpg" alt="Soul Embraced - This Is My Blood - Full-length cover" style="width:300px; height:auto;">
 
 
   **Immune - Full-length - 2003**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-immune.jpg" alt="Soul Embraced - Immune - Full-length cover" style="width:300px; height:auto;">
+
+
   **Dead Alive - Full-length - 2008**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-dead-alive.jpg" alt="Soul Embraced - Dead Alive - Full-length cover" style="width:300px; height:auto;">
 
 
   **Like a Corpse - Single - 2012**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-like-a-corpse.jpg" alt="Soul Embraced - Like a Corpse - Single cover" style="width:300px; height:auto;">
+
+
   **Mythos - Full-length - 2013**
 
 
-  <br><br>
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-mythos.jpg" alt="Soul Embraced - Mythos - Full-length cover" style="width:300px; height:auto;">
+
+
+  <br>
 
 
   <iframe style="border: 0; width: 300px; height: 703px;" src="https://bandcamp.com/EmbeddedPlayer/album=810791600/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://soulembraced.bandcamp.com/album/mythos">Mythos by Soul Embraced</a></iframe>

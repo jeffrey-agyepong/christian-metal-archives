@@ -39,10 +39,7 @@ discography: >-
   **War - EP - 2012**  
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/war.jpg" alt="The Beckoning War  cover" style="width:300px; height:auto;">
-
-
 
 
   **Desolate - EP - 2014**  
@@ -68,7 +65,7 @@ discography: >-
 
   <img src="https://ik.imagekit.io/boxhuwbys/the-beckoning-sanctuary.jpg" alt="The Beckoning - Sanctuary - EP cover" style="width:300px; height:auto;">
 
-  <br> <br>
+  <br> 
 
   <iframe style="border: 0; width: 300px; height: 538px;" src="https://bandcamp.com/EmbeddedPlayer/album=2616887039/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://thebeckoningcanada.bandcamp.com/album/sanctuary">Sanctuary by The Beckoning (Canada)</a></iframe>
 ---
