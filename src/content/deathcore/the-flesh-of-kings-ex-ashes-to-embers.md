@@ -6,6 +6,7 @@ date: 2024-11-21T16:51:00.000Z
 country: United States
 location: Whittier, California
 formed: "2007"
+yearsActive: 2007-2017
 status: Hiatus
 genre: Deathcore
 themes: Christianity
