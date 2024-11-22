@@ -35,25 +35,19 @@ discography: >-
   **As They Sleep - EP - 2005**  
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-EP.jpg" alt="As They Sleep - EP cover" style="width:300px; height:auto;">
-
-
 
 
   **Blacken the Sun - Full-length - 2008**  
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-blacken-the-sun.jpg" alt="As They Sleep - Blacken the Sun - Full-length cover" style="width:300px; height:auto;">
-
-
 
 
   **Dynasty - Full-length - 2010**
 
 
-  <br> <br>
+  <br> 
 
   <img src="https://ik.imagekit.io/boxhuwbys/as-they-sleep-dynasty.jpg" alt="As They Sleep - Dynasty - Full-length cover" style="width:300px; height:auto;">
 
