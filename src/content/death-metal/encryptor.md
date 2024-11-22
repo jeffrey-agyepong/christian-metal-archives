@@ -17,12 +17,37 @@ tags:
   - death-metal
 bandMembers: Ogrvst - All instruments, Vocals - 1999-2010 \[Ministros del
   Santuario, ex-Entorn, ex-Northern Ash, ex-Rehumanize, ex-SorrowStorm]
-discography: |-
-  Drowning in Flesh - Full-length - 2001
+discography: >-
+  **Drowning in Flesh - Full-length - 2001**
 
-  Sermon Decay - Full-length - 2003
 
-  Cryptic Works - Compilation - 2005
 
-  Encryption (1999-2006) - Compilation - 2006
+  <img src="https://ik.imagekit.io/boxhuwbys/encryptor-drowning-in-flesh.jpg" alt="Encryptor Drowning in Flesh - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
+  **Sermon Decay - Full-length - 2003**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/encryptor-sermon-decay.jpg" alt="Encryptor - Sermon Decay - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
+  **Cryptic Works - Compilation - 2005**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/encryptor-cryptic-works.jpg" alt="Encryptor - Cryptic Works - Compilation cover" style="width:300px; height:auto;">
+
+
+
+
+  **Encryption (1999-2006) - Compilation - 2006**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/encryptor-encryption.jpg" alt="Encryptor - Encryption (1999-2006) - Compilation cover" style="width:300px; height:auto;">
 ---
