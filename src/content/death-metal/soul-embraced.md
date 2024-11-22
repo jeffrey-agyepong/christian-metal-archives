@@ -72,7 +72,6 @@ discography: >-
   **For the Incomplete - Full-length - 2001**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-for-the-incomplete.jpg" alt="Soul Embraced - For the Incomplete - Full-length cover" style="width:300px; height:auto;">
 
 
@@ -80,16 +79,35 @@ discography: >-
   **This Is My Blood - Full-length - 2002**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-this-is-my-blood.jpg" alt="Soul Embraced - This Is My Blood - Full-length cover" style="width:300px; height:auto;">
+
+
+
   **Immune - Full-length - 2003**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-immune.jpg" alt="Soul Embraced - Immune - Full-length cover" style="width:300px; height:auto;">
 
 
   **Dead Alive - Full-length - 2008**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-dead-alive.jpg" alt="Soul Embraced - Dead Alive - Full-length cover" style="width:300px; height:auto;">
+
+
   **Like a Corpse - Single - 2012**
 
 
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-like-a-corpse.jpg" alt="Soul Embraced - Like a Corpse - Single cover" style="width:300px; height:auto;">
+
+
+
+
   **Mythos - Full-length - 2013**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-mythos.jpg" alt="Soul Embraced - Mythos - Full-length cover" style="width:300px; height:auto;">
+
 
 
   <br><br>
