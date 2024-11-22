@@ -38,5 +38,20 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/eyes-of-the-defiled-enslaved-in-exile-album.jpg" alt="Eyes of the Defiled - Enslaved in Exile - Full-length  cover" style="width:300px; height:auto;">
 
 
+  **Last Words - Single - 2014**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/eyes-of-the-last-words.jpg" alt="Eyes of the Defiled - Last Words - Single cover" style="width:300px; height:auto;">
+
+
+  **Distant Telling - Full-length - 2014**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/eyes-of-the-defiled-distant-telling.jpg" alt="Eyes of the Defiled - Last Words - Single cover" style="width:300px; height:auto;">
+
+
   <br><br>
+
+
+  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=2647494129/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://visionofgodrecords.bandcamp.com/album/distant-tellings">Distant Tellings by Eyes Of The Defiled</a></iframe>
 ---
