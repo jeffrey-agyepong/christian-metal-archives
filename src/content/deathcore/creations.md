@@ -6,86 +6,56 @@ date: 2024-11-21T21:49:00.000Z
 country: Australia
 location: Sydney, NSW
 formed: "2009"
-status: Hiatus
-genre: Melodic Death Metal/Deathcore
+yearsActive: 2009-2016
+status: Disbanded
+genre: Deathcore/Hardcore
 themes: Christianity
 currentLabel: Independent
-image: https://ik.imagekit.io/boxhuwbys/afterimage.webp
-imageAlt: "Afterimage "
+image: https://ik.imagekit.io/boxhuwbys/creations-band.jpg
+imageAlt: Creations - Christian deathcore band
 tags:
-  - deathMetal
   - deathcore
-bandMembers: >-
-  **Latest Lineup:**
+bandMembers: |-
+  **Latest Lineup:**    
 
+  Thomas Hirst – vocals
 
-  Eric Huber - Bass 
+  Jared Laycock – guitar
 
+  Jonny Blackwell – bass
 
-  Chris Sanchez - Guitars \[ex-Hour of Atonement]	
+  Mike Mitchell – drums
 
+  **Former Members:**    
 
-  Dan Gleason -	Guitars \[Âstillian, ex-Day of Ascension (live)] 
+  Michael Foss – vocals
 
+  Blake Carter – guitar
 
-  Mike Gleason -Vocals \[Âstillian, ex-Day of Ascension (live)]
+  James Thorpe – guitar
 
-
-
-  **Former Members:**
-
-
-  Tom Hacker - Bass  
-
-
-  Justin Swanson - Bass, Guitars  
-
-
-  Mike DeStefano - Drums \[Vukari, ex-Valley of Hinnom, ex-Abigail Williams (live), ex-Wolvhammer (live)]  
-
-
-  Slawek Kreller - Drums \[ex-Hour of Atonement]  
-
-
-  Wes Sherwood - Drums  
-
-
-  Brad Johnson - Drums \[Second Wind, ex-Sins of Spira]  
-
-
-  Eric Lee - Guitars  
-
-
-  James LoGalbo - Guitars  
-
-
-  David DeStefano - Guitars \[Âstillian]
+  Blair Gowan – drums
 discography: >-
-  **Afterimage - Demo - 2004** 
+  
 
 
-  **Demo 4 - Demo  - 2005** 
+  **Ruined - EP - 2009**
 
 
-  **Burning Hands - Demo  - 2006** 
+  **The Gospel - Full-length  - 2011** 
 
 
-  **Codex: Triumph in the Eschaton - EP - 2007** 
+  <img src="https://ik.imagekit.io/boxhuwbys/creations-the-gospel.webp" alt="Creations - The Gospel - Full-length cover" style="width:300px; height:auto;">
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/afterimage-codex.jpg?updatedAt=1731901409554" alt="Afterimage - Codex: Triumph in the Eschaton - EP cover" style="width:300px; height:auto;">
+  **Unworthy/Humility - Full-length  - 2013** 
 
 
-  **Unveil the Unseen - Album Teaser - Demo - 2013** 
+  <img src="https://ik.imagekit.io/boxhuwbys/creations-unworthy-humility.webp" alt="Creations - Unworthy/Humility - Full-length cover" style="width:300px; height:auto;">
 
 
-  **Unveil the Unseen - Full-length - 2013**
+  <br>
 
 
-  <img src="
-
-  https://ik.imagekit.io/boxhuwbys/afterimage-unveil.jpg?updatedAt=1731901770098" alt="Afterimage Unveil the Unseen - Full-length cover" style="width:300px; height:auto;">
-
-
-  <iframe style="border: 0; width: 300px; height: 558px;" src="https://bandcamp.com/EmbeddedPlayer/album=2209508921/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://afterimagemetal.bandcamp.com/album/unveil-the-unseen-album-teaser">Unveil The Unseen - Album Teaser by Afterimage</a></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5567y2bUCVVMw8f6b1cMVX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
