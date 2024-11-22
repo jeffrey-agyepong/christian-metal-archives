@@ -6,6 +6,7 @@ date: 2024-11-19T17:56:00.000Z
 country: United States
 location: Detroit, Michigan
 formed: "2003"
+yearsActive: 2003-?
 status: Unknown
 genre: Melodic Death Metal
 themes: Christianity, History
