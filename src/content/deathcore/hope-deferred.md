@@ -6,6 +6,7 @@ date: 2024-11-20T22:53:00.000Z
 country: United States
 location: Arlington, Texas
 formed: "2016"
+yearsActive: "2016-present "
 status: Active
 genre: Deathcore/Death Metal
 themes: Christianity
