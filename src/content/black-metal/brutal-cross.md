@@ -6,6 +6,7 @@ date: 2024-11-18T17:32:00.000Z
 country: Poland
 location: Ireland
 formed: "2011"
+yearsActive: 2011-2016
 status: Hiatus
 genre: Symphonic Black/Death Metal
 themes: Christianity
