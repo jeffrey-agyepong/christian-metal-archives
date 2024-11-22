@@ -6,6 +6,7 @@ date: 2024-11-18T17:11:00.000Z
 country: United States
 location: Amarillo, Texas
 formed: "2013"
+yearsActive: 2013-present
 status: Active
 genre: Brutal/Symphonic Death Metal
 themes: Christianity
