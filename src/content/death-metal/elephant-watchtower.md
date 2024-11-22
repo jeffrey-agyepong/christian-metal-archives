@@ -6,6 +6,7 @@ date: 2024-11-19T22:32:00.000Z
 country: Canada
 location: Toronto, Ontario
 formed: "2018"
+yearsActive: 2018-present
 status: Active
 genre: Progressive Death Metal
 themes: Christianity, Religious criticism
