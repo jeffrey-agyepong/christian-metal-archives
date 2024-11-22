@@ -6,6 +6,7 @@ date: 2024-11-19T21:03:00.000Z
 country: United States
 location: Amarillo, Texas
 formed: "2019"
+yearsActive: 2019-present
 status: Active
 genre: Melodic Doom/Death Metal
 themes: Christianity, Death, Loss, Grief
