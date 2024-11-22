@@ -6,6 +6,7 @@ date: 2024-11-21T12:54:00.000Z
 country: Germany
 location: Lauter/Chemnitz, Saxony
 formed: "2015"
+yearsActive: 2015-2019
 status: Disbanded
 genre: Death Metal/Grindcore
 themes: Christianity, Social issues, Personal experiences
