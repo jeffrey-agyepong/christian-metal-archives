@@ -47,7 +47,7 @@ discography: >-
   **Distant Telling - Full-length - 2014**
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/eyes-of-the-defiled-distant-telling.jpg" alt="Eyes of the Defiled - Last Words - Single cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/eyes-of-the-defiled-distant-telling.jpg" alt="Eyes of the Defiled - Distant Telling - Full-length cover" style="width:300px; height:auto;">
 
 
   <br><br>
