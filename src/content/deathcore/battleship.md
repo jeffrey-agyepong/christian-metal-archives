@@ -28,7 +28,7 @@ discography: >-
   **Resurrection - Full-length - 2013** 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/battleship!.jpg" alt="Afterimage Unveil the Unseen - Full-length cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/battleship!.jpg" alt="Battleship! - Resurrection cover" style="width:300px; height:auto;">
 
 
   <br>
