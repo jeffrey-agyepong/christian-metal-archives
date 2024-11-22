@@ -6,6 +6,7 @@ date: 2024-11-19T19:23:00.000Z
 country: United States
 location: Winston-Salem, North Carolina
 formed: "2003"
+yearsActive: 2003-present
 status: Active
 genre: Progressive Deathcore/Metalcore
 themes: Christianity
