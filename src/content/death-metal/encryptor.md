@@ -50,4 +50,10 @@ discography: >-
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/encryptor-encryption.jpg" alt="Encryptor - Encryption (1999-2006) - Compilation cover" style="width:300px; height:auto;">
+
+
+  <br>
+
+
+  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=42371053/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://encryptor.bandcamp.com/album/encryption">Encryption by Encryptor</a></iframe>
 ---
