@@ -75,12 +75,10 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-for-the-incomplete.jpg" alt="Soul Embraced - For the Incomplete - Full-length cover" style="width:300px; height:auto;">
 
 
-
   **This Is My Blood - Full-length - 2002**
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-this-is-my-blood.jpg" alt="Soul Embraced - This Is My Blood - Full-length cover" style="width:300px; height:auto;">
-
 
 
   **Immune - Full-length - 2003**
@@ -101,16 +99,13 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-like-a-corpse.jpg" alt="Soul Embraced - Like a Corpse - Single cover" style="width:300px; height:auto;">
 
 
-
-
   **Mythos - Full-length - 2013**
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-mythos.jpg" alt="Soul Embraced - Mythos - Full-length cover" style="width:300px; height:auto;">
 
 
-
-  <br><br>
+  <br>
 
 
   <iframe style="border: 0; width: 300px; height: 703px;" src="https://bandcamp.com/EmbeddedPlayer/album=810791600/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://soulembraced.bandcamp.com/album/mythos">Mythos by Soul Embraced</a></iframe>
