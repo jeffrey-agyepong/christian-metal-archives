@@ -6,6 +6,7 @@ date: 2024-11-17T21:26:00.000Z
 country: Demark
 location: Aarhus, Midtjylland
 formed: "2011"
+yearsActive: 2006-2011, 2011-present
 status: "     Active"
 genre: Blackened Death Metal
 themes: Christianity
