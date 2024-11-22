@@ -6,6 +6,7 @@ date: 2024-11-21T15:14:00.000Z
 country: Panama
 location: Philadelphia, Pennsylvania, United States
 formed: "2000"
+yearsActive: 2000-2010, 2021-present
 status: Active
 genre: Progressive Black Metal
 themes: Christianity
