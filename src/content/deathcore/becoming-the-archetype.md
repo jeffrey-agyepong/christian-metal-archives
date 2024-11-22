@@ -6,6 +6,7 @@ date: 2024-11-18T15:09:00.000Z
 country: United States
 location: Atlanta/Dacula, Georgia
 formed: "2004"
+yearsActive: 2004-2013, 2022-present
 status: Active
 genre: Progressive Death Metal/Deathcore
 themes: Christianity
