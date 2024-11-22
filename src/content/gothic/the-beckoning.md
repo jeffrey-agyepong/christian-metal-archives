@@ -6,6 +6,7 @@ date: 2024-11-19T18:12:00.000Z
 country: Canada
 location: Saint John, New Brunswick
 formed: "2010"
+yearsActive: 2010-2018, 2020-present
 status: Active
 genre: Melodic Death/Gothic Metal
 themes: Christianity
