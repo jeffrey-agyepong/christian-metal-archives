@@ -51,7 +51,7 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/eyes-of-the-defiled-distant-telling.jpg" alt="Eyes of the Defiled - Distant Telling - Full-length cover" style="width:300px; height:auto;">
 
 
-  <br><br>
+  <br>
 
 
   <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=2647494129/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://visionofgodrecords.bandcamp.com/album/distant-tellings">Distant Tellings by Eyes Of The Defiled</a></iframe>
