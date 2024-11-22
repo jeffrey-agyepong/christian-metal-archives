@@ -5,8 +5,8 @@ author: Jeffrey A.
 date: 2024-11-21T17:44:00.000Z
 country: United States
 location: Crisfield, Maryland
-formed: "2011"
-yearsActive: 2011-2016
+formed: "2010"
+yearsActive: 2011-2017
 status: Hiatus
 genre: Deathcore
 themes: Christianity
