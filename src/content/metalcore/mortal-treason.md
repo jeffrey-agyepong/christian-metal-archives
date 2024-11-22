@@ -66,4 +66,9 @@ discography: >-
   **Sunrise Over A Sea of Blood - Full-length - 2005**
 
   <img src="https://ik.imagekit.io/boxhuwbys/mortal-treason-sunrise-over-a-sea-of-blood.jpg" alt="Mortal Treason - Sunrise Over A Sea of Blood - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
+  <iframe style="border: 0; width: 300px; height: 670px;" src="https://bandcamp.com/EmbeddedPlayer/album=3972576703/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://alabamadiymusicarchive.bandcamp.com/album/mortal-treason-a-call-to-the-martyrs">MORTAL TREASON- A CALL TO THE MARTYRS by Mortal Treason</a></iframe>
 ---
