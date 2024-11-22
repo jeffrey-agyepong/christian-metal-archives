@@ -6,6 +6,7 @@ date: 2024-11-19T22:05:00.000Z
 country: United States
 location: Dallas, Texas
 formed: "2018"
+yearsActive: 2018-present
 status: Active
 genre: Progressive/Melodic Death Metal
 themes: Christianity, Battles
