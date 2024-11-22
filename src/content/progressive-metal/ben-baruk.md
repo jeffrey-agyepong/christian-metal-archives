@@ -5,7 +5,8 @@ author: Jeffrey A.
 date: 2024-11-19T19:14:00.000Z
 country: Brazil
 location: Rio de Janeiro
-formed: "2015"
+formed: "2014"
+yearsActive: "2014-present "
 status: Active
 genre: Progressive/Symphonic Metal
 themes: Christianity
