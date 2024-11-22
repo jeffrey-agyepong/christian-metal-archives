@@ -12,7 +12,7 @@ genre: Melodic Death Metal/Deathcore
 themes: Christianity, Death, Inner struggles
 currentLabel: Rottweiler Records
 image: https://ik.imagekit.io/boxhuwbys/soul-embraced.jpg
-imageAlt: Soul Embraced
+imageAlt: Soul Embraced - Christian Melodic Death Metal band
 tags:
   - death-metal
 bandMembers: >-
