@@ -6,6 +6,7 @@ date: 2024-11-21T15:45:00.000Z
 country: Norway
 location: Sortland, Nordland
 formed: N/A
+yearsActive: 2006-present
 status: Active
 genre: Progressive Death Metal / Symphonic Black Metal
 themes: Christianity
