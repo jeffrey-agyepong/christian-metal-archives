@@ -6,6 +6,7 @@ date: 2024-11-19T17:14:00.000Z
 country: United States
 location: Seattle, Washington
 formed: "2006"
+yearsActive: 2006-2017
 status: Hiatus
 genre: Progressive Death Metal
 themes: Christianity
