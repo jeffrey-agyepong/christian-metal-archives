@@ -12,7 +12,7 @@ genre: Progressive Death Metal
 themes: Christianity
 currentLabel: Basick Records, Century Media Records
 image: https://ik.imagekit.io/boxhuwbys/7_Horns_7_Eyes.webp
-imageAlt: 7 Horns & Eyes
+imageAlt: 7 Horns 7 Eyes
 tags:
   - death-metal
 bandMembers: >-
