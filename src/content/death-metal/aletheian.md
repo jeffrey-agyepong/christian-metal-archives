@@ -6,6 +6,7 @@ date: 2024-11-18T12:37:00.000Z
 country: United States
 location: Chicago, Illinois
 formed: "2015"
+yearsActive: 2015-present
 status: Active
 genre: Progressive Death Metal
 themes: Christianity
