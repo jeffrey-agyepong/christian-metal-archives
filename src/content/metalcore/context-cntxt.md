@@ -6,6 +6,7 @@ date: 2024-11-20T22:02:00.000Z
 country: United States
 location: Morganton, West Virginia
 formed: "2018"
+yearsActive: 2018-present
 status: Active
 genre: Progressive Metalcore/Deathcore
 themes: Christianity
