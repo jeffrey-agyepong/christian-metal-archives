@@ -28,8 +28,15 @@ bandMembers: |-
   Jesse Mardis - Guitars
 
   Seth Kimbrough - Vocals \[Mortal Treason]
-discography: |-
-  
-  **Rurnt - EP - 2008
-  Awaiting the End - Full-length - 2009**
+discography: >-
+  **Rurnt - EP - 2008**
+
+
+
+  **Awaiting the End - Full-length - 2009**
+
+
+
+
+  <iframe style="border: 0; width: 300px; height: 604px;" src="https://bandcamp.com/EmbeddedPlayer/album=573104100/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://alabamadiymusicarchive.bandcamp.com/album/awaiting-the-end">Awaiting the End by Misery Chastain</a></iframe>
 ---
