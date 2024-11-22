@@ -6,6 +6,7 @@ date: 2024-11-18T14:47:00.000Z
 country: United States
 location: Chicago, Illinois
 formed: "2016"
+yearsActive: 2016-present
 status: Active
 genre: Melodic Death Metal
 themes: War, Anglo-Saxons, Vikings, History
