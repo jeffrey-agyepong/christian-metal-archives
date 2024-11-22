@@ -11,7 +11,7 @@ genre: Deathcore
 themes: Christianity
 currentLabel: Independent
 image: https://ik.imagekit.io/boxhuwbys/the-flesh-of-kings-logo.jpg?updatedAt=1732233166645
-imageAlt: "Afterimage "
+imageAlt: The Flesh of Kings Christian Deathcore Band
 tags:
   - deathcore
 bandMembers: |-
