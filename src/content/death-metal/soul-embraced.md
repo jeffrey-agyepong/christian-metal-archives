@@ -2,7 +2,7 @@
 title: Soul Embraced
 band: Soul Embraced
 author: Jeffrey A
-date: 2024-11-21T23:33:00.000Z
+date: 2024-11-22T10:44:00.000Z
 country: United States
 location: Little Rock, Arkansas
 formed: "1997"
@@ -66,12 +66,15 @@ discography: >-
   **Fleshless - EP - 1999**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-fleshless.jpg" alt="Soul Embraced - Fleshless -EP cover" style="width:300px; height:auto;">
 
 
-
   **For the Incomplete - Full-length - 2001**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/soul-embraced-for-the-incomplete.jpg" alt="Soul Embraced - For the Incomplete - Full-length cover" style="width:300px; height:auto;">
+
 
 
   **This Is My Blood - Full-length - 2002**
