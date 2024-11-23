@@ -46,8 +46,15 @@ bandMembers: >-
 
 
   Ebony Wagner - Vocals
-discography: |-
+discography: >-
   **Former Life Departure - Full-length - 2002**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/syringe-former-life-departure.jpg" alt="" style="width:300px; height:auto;">
+
+
+
 
   **Former Life Departure - Full-length - 2012**
 ---
