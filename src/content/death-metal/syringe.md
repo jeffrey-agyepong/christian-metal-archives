@@ -51,10 +51,14 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/syringe-former-life-departure.jpg" alt="" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/syringe-former-life-departure.jpg" alt="Former Life Departure - Full-length" style="width:300px; height:auto;">
 
 
 
 
   **Former Life Departure - Full-length - 2012**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/syringe-former-life-departure-2.jpg" alt="Syringe Former Life Departure - Full-length" style="width:300px; height:auto;">
 ---
