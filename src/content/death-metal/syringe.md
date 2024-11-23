@@ -61,4 +61,8 @@ discography: >-
 
 
   <img src="https://ik.imagekit.io/boxhuwbys/syringe-former-life-departure-2.jpg" alt="Syringe Former Life Departure - Full-length" style="width:300px; height:auto;">
+
+  <br>
+
+  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=1799776188/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://syringeministry.bandcamp.com/album/former-life-departure">Former Life Departure by Syringe</a></iframe>
 ---
