@@ -11,7 +11,7 @@ status: Active
 genre: Deathcore
 themes: Christianity
 currentLabel: Independent
-image: https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing.jpg?updatedAt=1732659319463
+image: https://ik.imagekit.io/boxhuwbys/searching_serenity.webp?updatedAt=1729972101341
 imageAlt: Searching Serenity
 tags:
   - deathcore
