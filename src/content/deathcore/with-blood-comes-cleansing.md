@@ -45,30 +45,42 @@ bandMembers: |-
   Matt Fidler - Drums
 
   Dennis Frazier - Bass
-discography: |-
-  
-
+discography: >-
   **With Blood Comes Cleansing - Demo - 2005**
+
 
   **Dern - EP - 2005**
 
+
   **Golgotha - Full-length - 2006**
+
 
   **Taste of Victory - Split - 2008**
 
+
   **Horror - Full-length - 2008**
+
 
   **Pericardial Effusion - Single - 2023**
 
+
   **Euangelion - Single - 2023**
+
 
   **Pericardial Effusion // Euangelion - Single - 2024**
 
+
   **Golgotha (2024 Redux) - EP - 2024**
+
 
   **The Flayed (Bartholomew) - Single - 2024**
 
+
   **The Inverted Crucifixion (Peter) - Single - 2024**
 
+
   **The Battered (Stephen) - Single - 2024**
+
+
+  **<iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=184673965/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://bloodandink.bandcamp.com/album/golgotha">Golgotha by With Blood Comes Cleansing</a></iframe>**
 ---
