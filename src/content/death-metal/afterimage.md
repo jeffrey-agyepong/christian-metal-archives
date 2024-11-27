@@ -6,6 +6,7 @@ date: 2024-11-17T12:54:00.000Z
 country: United States
 location: Barrington, Illinois
 formed: "2003"
+yearsActive: 2003-2014
 status: Hiatus
 genre: Melodic Death Metal/Deathcore
 themes: Christianity
