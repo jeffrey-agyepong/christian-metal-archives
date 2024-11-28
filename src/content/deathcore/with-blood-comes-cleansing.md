@@ -129,7 +129,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-peter.jpg" alt="With Blood Comes Cleansing - Horror - Full-length cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-peter.jpg" alt="With Blood Comes Cleansing - The Inverted Crucifixion (Peter) - Single cover" style="width:300px; height:auto;">
 
 
 
@@ -139,7 +139,7 @@ discography: >-
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-stephen.jpeg" alt="With Blood Comes Cleansing - Horror - Full-length cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-stephen.jpeg" alt="With Blood Comes Cleansing - The Battered (Stephen) - Single cover" style="width:300px; height:auto;">
 
 
 
