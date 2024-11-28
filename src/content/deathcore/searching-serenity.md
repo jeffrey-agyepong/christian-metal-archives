@@ -47,24 +47,42 @@ bandMembers: >-
 
 
   Trey Finley - Guitar
-discography: |-
-  **Searching Serenity EP**
+discography: >-
+  **Dark Horse - Single - 2015** 
+
+
+  **Searching Serenity - EP - 2015**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-ep.jpg?updatedAt=1732770601828" alt="With Blood Comes Cleansing - Dern - EP cover" style="width:300px; height:auto;">
+
+
+
 
   **Mortifer: Bearer of Death EP**
 
+
   **Genesis(The Beginning)**
+
 
   **Revelation(The End)**
 
-  **Isolation**
+
+  **Isolation EP**
+
 
   **Soundtrack to Your Christmas**
 
+
   **The Struggles of The Earthly Ones**
+
 
   **Darkness**
 
+
   **Retribution**
+
 
   **Solace EP**
 ---
