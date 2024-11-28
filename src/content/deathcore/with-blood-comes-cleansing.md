@@ -128,7 +128,21 @@ discography: >-
   **The Inverted Crucifixion (Peter) - Single - 2024**
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-peter.jpg" alt="With Blood Comes Cleansing - Horror - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
+
   **The Battered (Stephen) - Single - 2024**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-stephen.jpeg" alt="With Blood Comes Cleansing - Horror - Full-length cover" style="width:300px; height:auto;">
+
+
+
 
 
   **<iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=184673965/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://bloodandink.bandcamp.com/album/golgotha">Golgotha by With Blood Comes Cleansing</a></iframe>**
