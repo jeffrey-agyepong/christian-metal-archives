@@ -79,16 +79,50 @@ discography: >-
   **Pericardial Effusion - Single - 2023**
 
 
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-logo.jpeg" alt="With Blood Comes Cleansing - Horror - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
   **Euangelion - Single - 2023**
+
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-euangelion.webp" alt="With Blood Comes Cleansing - Euangelion - Single cover" style="width:300px; height:auto;">
+
+
 
 
   **Pericardial Effusion // Euangelion - Single - 2024**
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-euangelion-2.png" alt="With Blood Comes Cleansing - Pericardial Effusion // Euangelion - Single cover" style="width:300px; height:auto;">
+
+
+
+
+
   **Golgotha (2024 Redux) - EP - 2024**
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-golgotha-redux.webp" alt="With Blood Comes Cleansing - Golgotha (2024 Redux) - EP cover" style="width:300px; height:auto;">
+
+
+
+
+
   **The Flayed (Bartholomew) - Single - 2024**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-logo.webp" alt="With Blood Comes Cleansing - Horror - Full-length cover" style="width:300px; height:auto;">
+
+
 
 
   **The Inverted Crucifixion (Peter) - Single - 2024**
