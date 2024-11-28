@@ -15,10 +15,12 @@ image: https://ik.imagekit.io/boxhuwbys/searching_serenity.webp?updatedAt=172997
 imageAlt: Searching Serenity
 tags:
   - deathcore
-bandMembers: |-
+bandMembers: >-
   **Latest Lineup:**
 
-  Robert Manzone - Vocals \[With Blood Comes Cleansing, ex-Legion of Adonai]
+
+  Robert Manzone - Vocals, All instruments \[With Blood Comes Cleansing, ex-Legion of Adonai]
+
 
   **Former Members:**
 discography: |-
