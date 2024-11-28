@@ -104,4 +104,9 @@ discography: >-
 
 
   **Solace EP - 2024**
+
+
+
+
+  <iframe style="border: 0; width: 300px; height: 604px;" src="https://bandcamp.com/EmbeddedPlayer/album=1920882688/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://searchingserenity.bandcamp.com/album/solace">Solace by Searching Serenity</a></iframe>
 ---
