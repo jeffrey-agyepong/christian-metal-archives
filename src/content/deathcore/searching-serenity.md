@@ -59,29 +59,29 @@ discography: >-
 
 
 
-  **Mortifer: Bearer of Death EP**
+  **Mortifer: Bearer of Death - EP - 2016**
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-mortifer-bearer-of-death.jpg?updatedAt=1732770601991" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
-
-
-
-
-  **Genesis (The Beginning)**
-
-
-
-  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-genesis.jpg?updatedAt=1732770601869" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-mortifer-bearer-of-death.jpg?updatedAt=1732770601991" alt="Searching Serenity - Mortifer: Bearer of Death EP  cover" style="width:300px; height:auto;">
 
 
 
 
-  **Revelation (The End)**
+  **Genesis (The Beginning) - Full-length - 2018**
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-revelation.jpg?updatedAt=1732770601830" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-genesis.jpg?updatedAt=1732770601869" alt="Searching Serenity - Genesis (The Beginning)  cover" style="width:300px; height:auto;">
+
+
+
+
+  **Revelation (The End) - Full-length - 2019**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-revelation.jpg?updatedAt=1732770601830" alt="Searching Serenity - Revelation (The End)  cover" style="width:300px; height:auto;">
 
 
 
