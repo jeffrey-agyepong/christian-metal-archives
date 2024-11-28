@@ -88,22 +88,65 @@ discography: >-
   **Searching Serenity (Remake) - EP - 2019** 
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-ep.jpg?updatedAt=1732770601828" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
+
+
   **Isolation - EP - 2020**
 
 
-  **Soundtrack to Your Christmas**
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-isolation.jpg" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
+
+
+  **Soundtrack to Your Christmas - Full-length - 2020**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-soundtrack-to-your-christmas.jpg" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
 
 
   **The Struggles of The Earthly Ones - Full-length - 2021**
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-the-struggles%20of-the-earthly-ones.jpg" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
+
+
   **Darkness - Full-length - 2022**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-darkness.jpg" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
 
 
   **Retribution - Full-length - 2023**
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-retribution.jpg" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
+
+
   **Solace EP - 2024**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-solace.jpg" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
+  <br>
 
 
 
