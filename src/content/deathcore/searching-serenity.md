@@ -54,8 +54,7 @@ discography: >-
   **Searching Serenity - EP - 2015**
 
 
-
-  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-ep.jpg?updatedAt=1732770601828" alt="With Blood Comes Cleansing - Dern - EP cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-ep.jpg?updatedAt=1732770601828" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
 
 
 
@@ -63,10 +62,28 @@ discography: >-
   **Mortifer: Bearer of Death EP**
 
 
-  **Genesis(The Beginning)**
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-mortifer-bearer-of-death.jpg?updatedAt=1732770601991" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
 
 
-  **Revelation(The End)**
+
+
+  **Genesis (The Beginning)**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-genesis.jpg?updatedAt=1732770601869" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
+
+
+  **Revelation (The End)**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-revelation.jpg?updatedAt=1732770601830" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
+
+
 
 
   **Isolation EP**
