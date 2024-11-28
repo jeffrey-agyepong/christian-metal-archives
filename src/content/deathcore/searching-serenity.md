@@ -94,14 +94,14 @@ discography: >-
   **Soundtrack to Your Christmas**
 
 
-  **The Struggles of The Earthly Ones**
+  **The Struggles of The Earthly Ones - Full-length - 2021**
 
 
-  **Darkness**
+  **Darkness - Full-length - 2022**
 
 
-  **Retribution**
+  **Retribution - Full-length - 2023**
 
 
-  **Solace EP**
+  **Solace EP - 2024**
 ---
