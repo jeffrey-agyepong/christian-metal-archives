@@ -57,6 +57,7 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-ep.jpg?updatedAt=1732770601828" alt="Searching Serenity - EP  cover" style="width:300px; height:auto;">
 
 
+  **Destructive Mind (Acoustic) - Single - 2015** 
 
 
   **Mortifer: Bearer of Death - EP - 2016**
@@ -84,9 +85,10 @@ discography: >-
   <img src="https://ik.imagekit.io/boxhuwbys/searching-serenity-revelation.jpg?updatedAt=1732770601830" alt="Searching Serenity - Revelation (The End)  cover" style="width:300px; height:auto;">
 
 
+  **Searching Serenity (Remake) - EP - 2019** 
 
 
-  **Isolation EP**
+  **Isolation - EP - 2020**
 
 
   **Soundtrack to Your Christmas**
