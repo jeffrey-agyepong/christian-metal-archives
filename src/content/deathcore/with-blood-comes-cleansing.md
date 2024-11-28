@@ -52,13 +52,28 @@ discography: >-
   **Dern - EP - 2005**
 
 
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-derm.webp" alt="With Blood Comes Cleansing - Dern - EP cover" style="width:300px; height:auto;">
+
+
   **Golgotha - Full-length - 2006**
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-golgotha.webp" alt="With Blood Comes Cleansing - Golgotha - Full-length cover" style="width:300px; height:auto;">
+
+
 
 
   **Taste of Victory - Split - 2008**
 
 
   **Horror - Full-length - 2008**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/with-blood-comes-cleansing-horror.webp?updatedAt=1732767396606" alt="With Blood Comes Cleansing - Horror - Full-length cover" style="width:300px; height:auto;">
+
+
 
 
   **Pericardial Effusion - Single - 2023**
