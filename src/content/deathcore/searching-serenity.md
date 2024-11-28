@@ -23,6 +23,30 @@ bandMembers: >-
 
 
   **Former Members:**
+
+
+  Alan Tanner - Bass
+
+
+  Colby Kiser - Guitar
+
+
+  Douglas Manzone - Drums
+
+
+  Joshua Towne - Drums
+
+
+  Marcus DeLoach - Vocals
+
+
+  Rob Kiser - Vocals
+
+
+  Tommy Gibson - Bass
+
+
+  Trey Finley - Guitar
 discography: |-
   **Searching Serenity EP**
 
