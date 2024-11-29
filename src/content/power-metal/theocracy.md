@@ -21,10 +21,14 @@ bandMembers: >-
 
   Jonathan Hinds - Guitars
 
+
+
   Matt Smith - Guitars, Vocals, Keyboards \[Project Aegis, Day of Reckoning (live)]
 
 
   Jared Oldham - Bass
+
+
 
   Ernie Topran - Drums \[Dead City Crown, ex-Project: Roenwolfe, ex-Halcyon Way, ex-Xeroderma]
 
@@ -45,7 +49,6 @@ bandMembers: >-
   Shawn Benson - Drums
 
 
-
   Val Allen Wood - Guitars (lead) \[Seventh Servant]
 
 
@@ -53,7 +56,6 @@ bandMembers: >-
 
 
   **Past Live Members:**
-
 
 
   Taylor Washington - Bass \[Paladin, ex-The Fury, Bit Brigade, ex-Arsis (live), ex-Necromancing the Stone (live), ex-ShadowStrike (live), ex-Sybaritic]
