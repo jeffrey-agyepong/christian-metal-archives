@@ -2,15 +2,15 @@
 title: Theocracy
 band: Theocracy
 author: Jeffrey A.
-date: 2024-11-19T19:14:00.000Z
-country: Brazil
-location: Rio de Janeiro
-formed: "2014"
-yearsActive: "2014-present "
+date: 2024-11-29T11:55:00.000Z
+country: United States
+location: Athens, Georgia
+formed: "2002"
+yearsActive: "2002-present "
 status: Active
-genre: Progressive/Symphonic Metal
+genre: Progressive Power Metal
 themes: Christianity
-currentLabel: Vision of God Records
+currentLabel: Atomic Fire Records
 image: https://ik.imagekit.io/boxhuwbys/ben-baruk.webp
 imageAlt: Theocracy
 tags:
