@@ -11,7 +11,7 @@ status: Active
 genre: Progressive Power Metal
 themes: Christianity
 currentLabel: Atomic Fire Records
-image: https://ik.imagekit.io/boxhuwbys/theocracy-band.webp
+image: https://ik.imagekit.io/boxhuwbys/theocracy-band-1.webp
 imageAlt: Theocracy
 tags:
   - progressive-metal
