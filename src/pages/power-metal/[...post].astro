@@ -1,0 +1,142 @@
+---
+import { getCollection } from "astro:content";
+import { Image } from "astro:assets";
+import BaseLayout from "src/layouts/BaseLayout.astro";
+import { marked } from "marked";
+import "@styles/blog.less";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("progressive-metal");
+  return posts.map((entry) => ({
+    params: { post: entry.slug },
+    props: { post: entry },
+  }));
+}
+
+const { post } = Astro.props;
+const {
+  title,
+  band,
+  country,
+  location,
+  formed,
+  yearsActive,
+  status,
+  genre,
+  themes,
+  currentLabel,
+  bandMembers,
+  discography,
+  image,
+  imageAlt,
+  author,
+} = post.data;
+const { Content } = await post.render();
+
+// Parse the Markdown strings
+const parsedBandMembers = marked(bandMembers);
+const parsedDiscography = marked(discography);
+---
+
+<BaseLayout {title}>
+  <!-- ============================================ -->
+  <!--                    LANDING                   -->
+  <!-- ============================================ -->
+
+  <!-- <Landing 
+    title="Blog"
+  /> -->
+
+  <!-- ============================================ -->
+  <!--              Main Blog Content               -->
+  <!-- ============================================ -->
+
+  <div class="blog-container main-content-wrapper">
+    <!--Main content -->
+    <div class="main-content">
+      <!-- ============================================ -->
+      <!--                  Blog Article                -->
+      <!-- ============================================ -->
+
+      <article class="blog-article">
+        <!--Main Article Image-->
+        <h1 class="blog-h1 text-center uppercase mt-4">{band}</h1>
+        <picture class="blog-mainImage">
+          <Image
+            src={image}
+            alt={imageAlt}
+            width="795"
+            height="795"
+            decoding="async"
+          />
+        </picture>
+
+        <!--Article Info-->
+        <section id="blog-content">
+          <div class="mb-8">
+            <p class="font-medium text-xl">
+              <span class="font-bold">Country of Origin:</span>
+              {country}
+            </p>
+            <p class="font-medium text-xl">
+              <span class="font-bold">Location:</span>
+              {location}
+            </p>
+            <p class="font-medium text-xl">
+              <span class="font-bold">Formed In:</span>
+              {formed}
+            </p>
+            <p class="font-medium text-xl">
+              <span class="font-bold">Years Active:</span>
+              {yearsActive}
+            </p>
+            <p class="font-medium text-xl">
+              <span class="font-bold">Status:</span>
+              {status}
+            </p>
+            <p class="font-medium text-xl">
+              <span class="font-bold">Genre:</span> {genre}
+            </p>
+            <p class="font-medium text-xl">
+              <span class="font-bold">Themes:</span>
+              {themes}
+            </p>
+            <p class="font-medium text-xl">
+              <span class="font-bold">Current Label:</span>
+              {currentLabel}
+            </p>
+          </div>
+          <div class="mb-8">
+            <h3 class="font-bold text-lg">Band Members:</h3>
+            <div set:html={parsedBandMembers} />
+          </div>
+          <div class="mb-8">
+            <h3 class="font-bold text-lg">Discography:</h3>
+            <div set:html={parsedDiscography} />
+          </div>
+          <Content />
+        </section>
+      </article>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .blog-article{
+    background: #132e54;
+    /* box-shadow: rgba(0, 0, 0, 0.014) 0px 3px 8px; */
+    border-radius: 8px;
+    padding: 1rem;
+    border-top: 0px;
+  }
+  iframe {
+    width: 100%; /* Set the width to 100% */
+    height: auto; /* Set height to auto to maintain aspect ratio */
+    aspect-ratio: 16 / 9; /* Maintain the 16:9 aspect ratio */
+    max-width: 760px; /* Optional: Set a max width */
+  }
+  .img-resize{
+    max-width: 300px !important;
+    max-height: 300px !important;
+  }
+</style>
