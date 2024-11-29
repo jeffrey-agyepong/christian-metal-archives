@@ -14,7 +14,7 @@ currentLabel: Atomic Fire Records
 image: https://ik.imagekit.io/boxhuwbys/theocracy-band-1.webp
 imageAlt: Theocracy
 tags:
-  - progressive-metal
+  - power-metal
 bandMembers: >-
   **Latest Lineup:**
 

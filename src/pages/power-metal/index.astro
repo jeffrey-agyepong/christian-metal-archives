@@ -8,14 +8,14 @@ import { Image } from "astro:assets";
 import Landing from "@components/Landing.astro";
 import "@styles/blog.less";
 
-const posts = await getCollection("progressive-metal");
+const posts = await getCollection("power-metal");
 posts.sort
   ((a,b) => a.data.band.localeCompare(b.data.band));
 ---
 
 <BaseLayout
-  title="Progressive Metal"
-  description="Browse Progressive Metal band profiles with comprehensive bios, member details, and album highlights."
+  title="Power Metal"
+  description="Browse Power Metal band profiles with comprehensive bios, member details, and album highlights."
   preloadImg=""
 >
   <!-- ============================================ -->
@@ -23,7 +23,7 @@ posts.sort
   <!-- ============================================ -->
 
   <Landing 
-    title="Progressive Metal"
+    title="Power Metal"
   />
 
   <!-- ============================================ -->
