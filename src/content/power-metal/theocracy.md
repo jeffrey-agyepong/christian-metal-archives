@@ -2,74 +2,133 @@
 title: Theocracy
 band: Theocracy
 author: Jeffrey A.
-date: 2024-11-19T19:14:00.000Z
-country: Brazil
-location: Rio de Janeiro
-formed: "2014"
-yearsActive: "2014-present "
+date: 2024-11-29T11:55:00.000Z
+country: United States
+location: Athens, Georgia
+formed: "2002"
+yearsActive: "2002-present "
 status: Active
-genre: Progressive/Symphonic Metal
+genre: Progressive Power Metal
 themes: Christianity
-currentLabel: Vision of God Records
-image: https://ik.imagekit.io/boxhuwbys/ben-baruk.webp
+currentLabel: Atomic Fire Records
+image: https://ik.imagekit.io/boxhuwbys/theocracy-band-1.webp
 imageAlt: Theocracy
 tags:
   - progressive-metal
-bandMembers: |-
+bandMembers: >-
   **Latest Lineup:**
 
-  Maria José (Mazé) - Vocals
 
-  Rafael Rodrigues -   Guitar, Vocals
+  Jonathan Hinds - Guitars
 
-  André Fernandes -    Guitar, Vocals
+  Matt Smith - Guitars, Vocals, Keyboards \[Project Aegis, Day of Reckoning (live)]
 
-  Carlos Eduardo (Cadu) -   Bass
 
-  Lais Cunha -    Drums 
+  Jared Oldham - Bass
+
+  Ernie Topran - Drums \[Dead City Crown, ex-Project: Roenwolfe, ex-Halcyon Way, ex-Xeroderma]
+
+
+  Taylor Washington - Guitars (lead) \[Paladin, ex-The Fury, Bit Brigade, ex-Arsis (live), ex-Necromancing the Stone (live), ex-ShadowStrike (live), ex-Sybaritic]
+
 
   **Former Member(s):**
 
-  Anna Moura - Vocals
+
+  Seth Filkins - Bass
+
+  Josh Sloan - Bass
+
+  Patrick Hoyt Parris - Bass \[ex-Project: Roenwolfe]
+
+
+  Shawn Benson - Drums
+
+
+
+  Val Allen Wood - Guitars (lead) \[Seventh Servant]
+
+
+  Patrick Nickell - Drums \[Noisecult, ex-Oblivion Myth]
+
+
+  **Past Live Members:**
+
+
+
+  Taylor Washington - Bass \[Paladin, ex-The Fury, Bit Brigade, ex-Arsis (live), ex-Necromancing the Stone (live), ex-ShadowStrike (live), ex-Sybaritic]
 discography: >-
-  **Vidas Que Choram - EP - 2018**
+  **Theocracy - Full-length - 2003**
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/vidas-que-choram.jpg" alt="Theocracy - Vidas Que Choram - EP cover" style="width:300px; height:auto;">
-
-    
-
-  **What Love Is That? - Full-length - 2020**  
-
-
-
-  <img src="https://ik.imagekit.io/boxhuwbys/what-love-is-that.jpg" alt="Theocracy - What Love is that? Full-length cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/theocracy-album.jpg" alt="Theocracy - Theocracy - Full-length cover" style="width:300px; height:auto;">
 
 
 
 
-  **Oh the Deep Deep Love of Jesus - Single - 2021**  
+  **Mirror of Souls - Full-length - 2008**
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/oh-the-deep-love-of-Jesus.jpg" alt="Theocracy - Oh the Deep Deep Love of Jesus - EP cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/theocracy-mirror-of-souls.webp" alt="Theocracy - Mirror of Souls - Full-length cover" style="width:300px; height:auto;">
 
 
 
 
-  **Cosmogony - Full-length - 2024**
+
+  **All I Want for Christmas - Single - 2010**
+
+
+  **Wages of Sin - Single - 2011**
+
+
+  **30 Pieces of Silver - Single - 2011**
+
+
+  **As the World Bleeds - Full-length - 2011**
 
 
 
-  <img src="https://ik.imagekit.io/boxhuwbys/ben-baruk-cosmogony.jpg" alt="Theocracy - Cosmogony - Full-length cover" style="width:300px; height:auto;">
+  <img src="https://ik.imagekit.io/boxhuwbys/theocracy-as-the-world-bleeds.webp" alt="Theocracy - As the World Bleeds - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
+
+  **Wynter Fever - Single - 2012**
+
+
+  **Ghost Ship - Full-length - 2016**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/theocracy-ghostship.jpg" alt="Theocracy - Ghost Ship - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
+
+  **Snowglobe - Single - 2019**
+
+
+  **Return to Dust - Single - 2023**
+
+
+  **Mosaic - Single - 2023**
+
+
+  **Mosaic - Full-length - 2023**
+
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/theocracy-mosaic.webp" alt="Theocracy - Mosaic - Full-length cover" style="width:300px; height:auto;">
+
+
 
   <br>
 
-  <br>
 
-
-
-
-  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=2991050590/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://visionofgodrecords.bandcamp.com/album/what-love-is-that-metal-symphonic-metal-djent">What Love Is That? (Metal/Symphonic Metal/Djent) by Theocracy</a></iframe>
+  <iframe style="border: 0; width: 300px; height: 736px;" src="https://bandcamp.com/EmbeddedPlayer/album=331484951/size=large/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://ulteriumrecords.bandcamp.com/album/as-the-world-bleeds">As The World Bleeds by Theocracy</a></iframe>
 ---
