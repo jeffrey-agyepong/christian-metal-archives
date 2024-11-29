@@ -15,22 +15,48 @@ image: https://ik.imagekit.io/boxhuwbys/theocracy-band-1.webp
 imageAlt: Theocracy
 tags:
   - progressive-metal
-bandMembers: |-
+bandMembers: >-
   **Latest Lineup:**
 
-  Maria José (Mazé) - Vocals
 
-  Rafael Rodrigues -   Guitar, Vocals
+  Jonathan Hinds - Guitars
 
-  André Fernandes -    Guitar, Vocals
+  Matt Smith - Guitars, Vocals, Keyboards \[Project Aegis, Day of Reckoning (live)]
 
-  Carlos Eduardo (Cadu) -   Bass
 
-  Lais Cunha -    Drums 
+  Jared Oldham - Bass
+
+  Ernie Topran - Drums \[Dead City Crown, ex-Project: Roenwolfe, ex-Halcyon Way, ex-Xeroderma]
+
+
+  Taylor Washington - Guitars (lead) \[Paladin, ex-The Fury, Bit Brigade, ex-Arsis (live), ex-Necromancing the Stone (live), ex-ShadowStrike (live), ex-Sybaritic]
+
 
   **Former Member(s):**
 
-  Anna Moura - Vocals
+
+  Seth Filkins - Bass
+
+  Josh Sloan - Bass
+
+  Patrick Hoyt Parris - Bass \[ex-Project: Roenwolfe]
+
+
+  Shawn Benson - Drums
+
+
+
+  Val Allen Wood - Guitars (lead) \[Seventh Servant]
+
+
+  Patrick Nickell - Drums \[Noisecult, ex-Oblivion Myth]
+
+
+  **Past Live Members:**
+
+
+
+  Taylor Washington - Bass \[Paladin, ex-The Fury, Bit Brigade, ex-Arsis (live), ex-Necromancing the Stone (live), ex-ShadowStrike (live), ex-Sybaritic]
 discography: >-
   **Vidas Que Choram - EP - 2018**
 
