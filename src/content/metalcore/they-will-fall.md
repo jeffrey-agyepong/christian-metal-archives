@@ -15,6 +15,17 @@ image: https://ik.imagekit.io/boxhuwbys/they-will-fall-band.webp
 imageAlt: They Will Fall - Metalcore band
 tags:
   - metalcore
-bandMembers: \-
-discography: \-
+bandMembers: |-
+  **Latest Lineup:**
+  Chris Shifflett - Drums \[Weeping Hour]
+  Corey McKnight - Guitar \[Weeping Hour]
+  Austin Knies - Vocals
+  Aaron Felkins - Guitar
+  Derek Deutsch - Bass
+discography: |-
+  Disrupt the World - Full-length - 2012
+
+  Misconceptions - EP - 2013
+
+  On the Depths of Depravity - Full-length - 2015
 ---
