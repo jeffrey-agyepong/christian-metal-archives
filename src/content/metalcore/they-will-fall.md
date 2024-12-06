@@ -17,10 +17,20 @@ tags:
   - metalcore
 bandMembers: |-
   **Latest Lineup:**
+
+
   Chris Shifflett - Drums \[Weeping Hour]
+
+
   Corey McKnight - Guitar \[Weeping Hour]
+
+
   Austin Knies - Vocals
+
+
   Aaron Felkins - Guitar
+
+
   Derek Deutsch - Bass
 discography: |-
   Disrupt the World - Full-length - 2012
