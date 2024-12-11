@@ -36,24 +36,22 @@ discography: >-
   **Disrupt the World - Full-length - 2012**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/Disrupt%20the%20World_5098.gif" alt="They Will Fall - Disrupt the World - Full-length cover" style="width:300px; height:auto;">
-
-
 
 
   **Misconceptions - EP - 2013**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/Misconceptions_4581.gif" alt="They Will Fall - Misconceptions - EP cover" style="width:300px; height:auto;">
-
-
 
 
   **On the Depths of Depravity - Full-length - 2015**
 
 
-
   <img src="https://ik.imagekit.io/boxhuwbys/On%20the%20Depths%20of%20Depravity_8403.gif" alt="They Will Fall - On the Depths of Depravity - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6d0w2mMUXrUxcHSTV1KUnQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
