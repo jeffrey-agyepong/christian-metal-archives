@@ -32,10 +32,28 @@ bandMembers: |-
 
 
   Derek Deutsch - Bass
-discography: |-
-  Disrupt the World - Full-length - 2012
+discography: >-
+  **Disrupt the World - Full-length - 2012**
 
-  Misconceptions - EP - 2013
 
-  On the Depths of Depravity - Full-length - 2015
+
+  <img src="https://ik.imagekit.io/boxhuwbys/Disrupt%20the%20World_5098.gif" alt="They Will Fall - Disrupt the World - Full-length cover" style="width:300px; height:auto;">
+
+
+
+
+  **Misconceptions - EP - 2013**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/Misconceptions_4581.gif" alt="They Will Fall - Misconceptions - EP cover" style="width:300px; height:auto;">
+
+
+
+
+  **On the Depths of Depravity - Full-length - 2015**
+
+
+
+  <img src="https://ik.imagekit.io/boxhuwbys/On%20the%20Depths%20of%20Depravity_8403.gif" alt="They Will Fall - On the Depths of Depravity - Full-length cover" style="width:300px; height:auto;">
 ---
